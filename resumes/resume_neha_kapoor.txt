@@ -1,0 +1,41 @@
+NEHA KAPOOR
+Email: neha.kapoor@email.com | Phone: +91 33221 10099
+LinkedIn: linkedin.com/in/nehakapoor
+Location: Gurugram, Haryana
+
+PROFESSIONAL SUMMARY
+Data Analyst with 3 years of experience in business intelligence,
+SQL analytics, and dashboard development. Skilled in translating
+complex data into actionable business insights.
+
+SKILLS
+Languages: SQL, Python, R
+BI Tools: Tableau, Power BI, Looker, Google Data Studio
+Data: Excel (Advanced), Pandas, NumPy, Matplotlib
+Databases: PostgreSQL, MySQL, BigQuery, Redshift
+Tools: Git, Jupyter, Airflow, dbt
+Concepts: Statistical Analysis, KPI Design, ETL, Data Modeling
+
+WORK EXPERIENCE
+
+Data Analyst — Zomato, Gurugram, Haryana
+Apr 2022 – Present
+• Built executive dashboard in Tableau tracking 15+ KPIs for leadership
+• Developed SQL-based analytics pipeline for restaurant performance metrics
+• Created customer cohort analysis driving 20% improvement in retention strategy
+• Automated weekly reports using Python and Airflow reducing manual effort by 80%
+• Collaborated with product team on A/B test analysis for app features
+
+Junior Data Analyst — EY India, Gurugram, Haryana
+Jun 2021 – Mar 2022
+• Analyzed financial data for audit clients using SQL and Excel
+• Built Power BI dashboards for client engagement metrics
+• Created data validation scripts using Python and Pandas
+• Supported due diligence analysis for M&A transactions
+
+EDUCATION
+B.Com (Honours) — SRCC, Delhi University (2021)
+
+CERTIFICATIONS
+• Google Data Analytics Professional Certificate
+• Tableau Desktop Specialist

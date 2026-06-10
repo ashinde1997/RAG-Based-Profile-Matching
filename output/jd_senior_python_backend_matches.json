@@ -1,0 +1,358 @@
+{
+  "job_description": "JOB TITLE: Senior Python Backend Engineer\nCOMPANY: FinSecure Technologies\nLOCATION: Bangalore, Karnataka (Hybrid)\nEXPERIENCE: 5+ years\n\nABOUT THE ROLE\nWe are looking for a Senior Python Backend Engineer to join our\npayments platform team. You will design and build high-throughput\nAPIs, optimize database performance, and mentor junior engineers.\nOur stack is Python-heavy with Django and FastAPI powering critical\nfinancial services.\n\nRESPONSIBILITIES\n• Design and implement scalable RESTful APIs us...",
+  "jd_file": "job_descriptions\\jd_senior_python_backend.txt",
+  "parsed_jd": {
+    "title": "Senior Python Backend Engineer",
+    "company": "FinSecure Technologies",
+    "min_experience_years": 5,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T22:08:40.861833",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "HARISH MENON",
+      "resume_path": "resumes/resume_harish_menon.pdf",
+      "match_score": 73,
+      "score_breakdown": {
+        "semantic_similarity": 66.9,
+        "skill_match": 78.0,
+        "experience_match": 92,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "go",
+        "django",
+        "postgresql",
+        "ai",
+        "fastapi",
+        "celery",
+        "python",
+        "aws",
+        "redis",
+        "rest",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+      ],
+      "reasoning": "Moderate match for Senior Python Backend Engineer. HARISH MENON has 8 years of experience (meets 5+ year requirement). Key matched skills: go, django, postgresql, ai, fastapi. Gaps: strong problem-solving and communication skills.",
+      "experience_years": 8,
+      "current_role": "Senior Python Developer",
+      "location": "Kochi, Kerala"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "ARJUN SHARMA",
+      "resume_path": "resumes/resume_arjun_sharma.txt",
+      "match_score": 73,
+      "score_breakdown": {
+        "semantic_similarity": 68.9,
+        "skill_match": 78.0,
+        "experience_match": 84,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "go",
+        "django",
+        "postgresql",
+        "ai",
+        "fastapi",
+        "terraform",
+        "python",
+        "aws",
+        "celery",
+        "redis",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+      ],
+      "reasoning": "Moderate match for Senior Python Backend Engineer. ARJUN SHARMA has 6 years of experience (meets 5+ year requirement). Key matched skills: go, django, postgresql, ai, fastapi. Gaps: strong problem-solving and communication skills.",
+      "experience_years": 6,
+      "current_role": "Senior Software Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "RAJESH NAMBIAR",
+      "resume_path": "resumes/resume_rajesh_nambiar.txt",
+      "match_score": 63,
+      "score_breakdown": {
+        "semantic_similarity": 52.9,
+        "skill_match": 78.0,
+        "experience_match": 60,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "go",
+        "postgresql",
+        "ai",
+        "fastapi",
+        "celery",
+        "python",
+        "aws",
+        "redis",
+        "docker",
+        "rabbitmq"
+      ],
+      "missing_skills": [
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "Backend Developer with 3 years of experience building high-performance\nAPIs using Python, FastAPI, and PostgreSQL. Focused on async programming,\ndatabase optimization, and clean architecture."
+      ],
+      "reasoning": "Moderate match for Senior Python Backend Engineer. RAJESH NAMBIAR has 4 years of experience (5+ required). Key matched skills: go, postgresql, ai, fastapi, celery. Gaps: strong problem-solving and communication skills.",
+      "experience_years": 4,
+      "current_role": "Backend Developer",
+      "location": "Thiruvananthapuram, Kerala"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "VIKRAM REDDY",
+      "resume_path": "resumes/resume_vikram_reddy.txt",
+      "match_score": 62,
+      "score_breakdown": {
+        "semantic_similarity": 43.1,
+        "skill_match": 80.0,
+        "experience_match": 80,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "kafka",
+        "postgresql",
+        "ai",
+        "terraform",
+        "python",
+        "aws",
+        "kubernetes",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "solid understanding of restful api design principles"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Python, Apache Spark, and\nmodern data stack technologies."
+      ],
+      "reasoning": "Moderate match for Senior Python Backend Engineer. VIKRAM REDDY has 5 years of experience (meets 5+ year requirement). Key matched skills: kafka, postgresql, ai, terraform, python. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles.",
+      "experience_years": 5,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "VIVEK SHANKAR",
+      "resume_path": "resumes/resume_vivek_shankar.txt",
+      "match_score": 60,
+      "score_breakdown": {
+        "semantic_similarity": 34.9,
+        "skill_match": 80.0,
+        "experience_match": 84,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "kafka",
+        "postgresql",
+        "ai",
+        "terraform",
+        "python",
+        "aws",
+        "kubernetes",
+        "redis",
+        "rest",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "solid understanding of restful api design principles"
+      ],
+      "relevant_excerpts": [
+        "VIVEK SHANKAR\nEmail: vivek.shankar@email.com | Phone: +91 77554 43321\nLinkedIn: linkedin.com/in/vivekshankar | GitHub: github.com/vivekshankar\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nBig Data Engineer with 5 years of experience building large-scale\ndata processing systems using Scala, A..."
+      ],
+      "reasoning": "Moderate match for Senior Python Backend Engineer. VIVEK SHANKAR has 6 years of experience (meets 5+ year requirement). Key matched skills: kafka, postgresql, ai, terraform, python. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles.",
+      "experience_years": 6,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "ANJALI CHOUDHARY",
+      "resume_path": "resumes/resume_anjali_choudhary.docx",
+      "match_score": 58,
+      "score_breakdown": {
+        "semantic_similarity": 49.8,
+        "skill_match": 48.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "go",
+        "ai",
+        "terraform",
+        "python",
+        "aws",
+        "kubernetes",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "proficiency with postgresql and redis",
+        "solid understanding of restful api design principles",
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "ANJALI CHOUDHARY\nEmail: anjali.choudhary@email.com | Phone: +91 88665 54432\nLinkedIn: linkedin.com/in/anjalichoudhary\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nPlatform Engineer with 8 years of experience building internal\ndeveloper platforms, CI/CD systems, and infrastructure automation...."
+      ],
+      "reasoning": "Partial match for Senior Python Backend Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 5+ year requirement). Key matched skills: go, ai, terraform, python, aws. Gaps: strong experience with django or fastapi frameworks, proficiency with postgresql and redis, solid understanding of restful api design principles.",
+      "experience_years": 10,
+      "current_role": "Principal Platform Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "SNEHA IYER",
+      "resume_path": "resumes/resume_sneha_iyer.docx",
+      "match_score": 58,
+      "score_breakdown": {
+        "semantic_similarity": 33.2,
+        "skill_match": 52.0,
+        "experience_match": 92,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "go",
+        "postgresql",
+        "ai",
+        "terraform",
+        "python",
+        "aws",
+        "redis",
+        "rest",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "solid understanding of restful api design principles",
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+      ],
+      "reasoning": "Partial match for Senior Python Backend Engineer. SNEHA IYER has 8 years of experience (meets 5+ year requirement). Key matched skills: go, postgresql, ai, terraform, python. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+      "experience_years": 8,
+      "current_role": "Senior Full",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "KAVITA SINGH",
+      "resume_path": "resumes/resume_kavita_singh.txt",
+      "match_score": 56,
+      "score_breakdown": {
+        "semantic_similarity": 49.4,
+        "skill_match": 46.0,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "postgresql",
+        "ai",
+        "python",
+        "aws",
+        "redis",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "solid understanding of restful api design principles",
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+      ],
+      "reasoning": "Partial match for Senior Python Backend Engineer. KAVITA SINGH has 7 years of experience (meets 5+ year requirement). Key matched skills: postgresql, ai, python, aws, redis. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+      "experience_years": 7,
+      "current_role": "Senior Developer",
+      "location": "Jaipur, Rajasthan"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "POOJA DESHMUKH",
+      "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+      "match_score": 52,
+      "score_breakdown": {
+        "semantic_similarity": 37.4,
+        "skill_match": 52.0,
+        "experience_match": 80,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "go",
+        "postgresql",
+        "ai",
+        "python",
+        "aws",
+        "kubernetes",
+        "redis",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong experience with django or fastapi frameworks",
+        "solid understanding of restful api design principles",
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "POOJA DESHMUKH\nEmail: pooja.deshmukh@email.com | Phone: +91 99887 76655\nLinkedIn: linkedin.com/in/poojadeshmukh | GitHub: github.com/poojadeshmukh\nLocation: Pune, Maharashtra\nPROFESSIONAL SUMMARY\nBackend Engineer with 4 years of experience building high-performance\ndistributed systems using Go. Pass..."
+      ],
+      "reasoning": "Partial match for Senior Python Backend Engineer. POOJA DESHMUKH has 5 years of experience (meets 5+ year requirement). Key matched skills: go, postgresql, ai, python, aws. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+      "experience_years": 5,
+      "current_role": "Backend Engineer",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "ANKIT PATEL",
+      "resume_path": "resumes/resume_ankit_patel.docx",
+      "match_score": 34,
+      "score_breakdown": {
+        "semantic_similarity": 64.9,
+        "skill_match": 66.0,
+        "experience_match": 20,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "go",
+        "postgresql",
+        "ai",
+        "fastapi",
+        "python",
+        "aws",
+        "redis",
+        "rest",
+        "docker"
+      ],
+      "missing_skills": [
+        "strong problem-solving and communication skills"
+      ],
+      "relevant_excerpts": [
+        "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+      ],
+      "reasoning": "Partial match for Senior Python Backend Engineer. ANKIT PATEL has 2 years of experience (5+ required). Key matched skills: go, postgresql, ai, fastapi, python. Gaps: strong problem-solving and communication skills.",
+      "experience_years": 2,
+      "current_role": "Backend Developer",
+      "location": "Ahmedabad, Gujarat"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 1471,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

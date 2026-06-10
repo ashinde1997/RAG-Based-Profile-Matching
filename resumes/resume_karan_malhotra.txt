@@ -1,0 +1,41 @@
+KARAN MALHOTRA
+Email: karan.malhotra@email.com | Phone: +91 11223 34455
+LinkedIn: linkedin.com/in/karanmalhotra | GitHub: github.com/karanmalhotra
+Location: Chandigarh, Punjab
+
+PROFESSIONAL SUMMARY
+Cross-Platform Mobile Developer with 3 years of experience building
+production Flutter applications. Strong in Dart, state management,
+and building beautiful, responsive mobile UIs.
+
+SKILLS
+Languages: Dart, Kotlin, JavaScript, Python
+Mobile: Flutter, BLoC, Riverpod, Provider, GetX
+Backend: Firebase, Supabase, REST APIs, GraphQL
+Tools: Android Studio, VS Code, Git, Figma, Codemagic, Fastlane
+Testing: Widget Testing, Integration Testing, Mockito
+Concepts: Material Design 3, Responsive UI, Offline-First, CI/CD
+
+WORK EXPERIENCE
+
+Senior Flutter Developer — Paytm, Noida, Uttar Pradesh
+Feb 2023 – Present
+• Built Paytm Mini Apps platform using Flutter serving 5M+ users
+• Implemented BLoC state management with clean architecture principles
+• Developed custom widget library with 40+ reusable components
+• Integrated native Android/iOS SDKs using platform channels
+• Reduced app crash rate by 60% through systematic error handling
+
+Flutter Developer — Dunzo, Bangalore, Karnataka
+Aug 2021 – Jan 2023
+• Developed delivery tracking UI with real-time map integration
+• Built chat feature using Firebase Firestore and Cloud Messaging
+• Implemented deep linking and dynamic links for marketing campaigns
+• Created automated screenshot testing pipeline using Codemagic
+
+EDUCATION
+B.Tech Computer Science — PEC Chandigarh (2021)
+
+PROJECTS
+• Open-source Flutter UI kit (2K+ GitHub stars)
+• Personal expense tracker app (10K+ Play Store downloads)

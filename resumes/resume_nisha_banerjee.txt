@@ -1,0 +1,36 @@
+NISHA BANERJEE
+Email: nisha.banerjee@email.com | Phone: +91 88990 11223
+LinkedIn: linkedin.com/in/nishabanerjee
+Location: Kolkata, West Bengal
+
+PROFESSIONAL SUMMARY
+iOS Developer with 3 years of experience building polished, performant
+iOS applications using Swift and SwiftUI. Passionate about great UX
+and Apple platform best practices.
+
+SKILLS
+Languages: Swift, Objective-C, Python
+iOS: SwiftUI, UIKit, Combine, Core Data, Core Animation, ARKit
+Architecture: MVVM, Clean Architecture, Coordinator Pattern
+Backend: Firebase, REST APIs, CloudKit
+Tools: Xcode, Git, CocoaPods, SPM, Fastlane, TestFlight
+Testing: XCTest, Quick/Nimble, Snapshot Testing
+
+WORK EXPERIENCE
+
+iOS Developer — PhonePe, Bangalore, Karnataka
+Mar 2023 – Present
+• Developed SwiftUI-based investment module used by 10M+ users
+• Implemented biometric authentication and secure keychain storage
+• Built custom chart components with Core Animation for portfolio view
+• Reduced crash rate from 2.1% to 0.3% through systematic debugging
+
+iOS Developer — Practo, Bangalore, Karnataka
+Jun 2021 – Feb 2023
+• Built appointment booking flow using UIKit and MVVM architecture
+• Integrated HealthKit for patient vitals tracking
+• Implemented push notification system with rich media support
+• Collaborated with design team on accessibility improvements (WCAG 2.1)
+
+EDUCATION
+B.Tech Computer Science — Jadavpur University, Kolkata (2021)

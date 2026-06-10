@@ -1,0 +1,49 @@
+ARUN KUMAR
+Email: arun.kumar@email.com | Phone: +91 55667 78899
+LinkedIn: linkedin.com/in/arunkumar
+Location: Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Cybersecurity Engineer with 6 years of experience in application
+security, penetration testing, and cloud security. Skilled in
+Python scripting, SAST/DAST tools, and incident response.
+
+SKILLS
+Languages: Python, Bash, Go, PowerShell
+Security: OWASP Top 10, SAST (SonarQube, Checkmarx), DAST (Burp Suite, ZAP)
+Cloud Security: AWS Security Hub, GuardDuty, IAM, CloudTrail, Azure Sentinel
+Network: Wireshark, Nmap, Metasploit, Snort
+Compliance: SOC2, ISO 27001, PCI-DSS, GDPR
+Tools: Git, Splunk, SIEM, Vault, CrowdStrike
+
+WORK EXPERIENCE
+
+Senior Security Engineer — Flipkart, Bangalore, Karnataka
+May 2021 – Present
+• Led application security program for 80+ microservices
+• Built automated vulnerability scanning pipeline using Python and Trivy
+• Conducted threat modeling for critical payment and checkout flows
+• Reduced mean time to remediation (MTTR) from 30 days to 5 days
+• Implemented secrets management using HashiCorp Vault
+
+Security Analyst — Deloitte India, Hyderabad, Telangana
+Mar 2019 – Apr 2021
+• Performed penetration testing for banking and fintech clients
+• Built Python-based security automation tools for compliance auditing
+• Conducted incident response for security breaches
+• Delivered security awareness training to 500+ employees
+
+Junior Security Engineer — Quick Heal Technologies, Pune, Maharashtra
+Jun 2017 – Feb 2019
+• Analyzed malware samples and developed detection signatures
+• Monitored SIEM alerts and investigated security incidents
+• Assisted in ISO 27001 certification audit
+
+EDUCATION
+M.Tech Information Security — IIIT Bangalore (2017)
+B.Tech Computer Science — VIT Vellore (2015)
+
+CERTIFICATIONS
+• Certified Ethical Hacker (CEH)
+• OSCP – Offensive Security Certified Professional
+• AWS Certified Security – Specialty

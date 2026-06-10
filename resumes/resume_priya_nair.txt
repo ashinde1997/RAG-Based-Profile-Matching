@@ -1,0 +1,45 @@
+PRIYA NAIR
+Email: priya.nair@email.com | Phone: +91 87654 32109
+LinkedIn: linkedin.com/in/priyanair
+Location: Hyderabad, Telangana
+
+PROFESSIONAL SUMMARY
+Staff Software Engineer with 8 years of experience in enterprise Java
+development, distributed systems, and container orchestration.
+Proven track record of delivering high-availability services at scale.
+
+SKILLS
+Languages: Java, Kotlin, Go, Python
+Frameworks: Spring Boot, Spring Cloud, Hibernate, gRPC
+Cloud & DevOps: Kubernetes, Docker, AWS, GCP, Helm, ArgoCD
+Databases: MySQL, PostgreSQL, Cassandra, Elasticsearch
+Tools: Git, Gradle, Maven, Prometheus, Grafana
+
+WORK EXPERIENCE
+
+Staff Software Engineer — Google India, Hyderabad, Telangana
+Mar 2020 – Present
+• Architected event-driven microservices platform handling 50K events/sec
+• Led Kubernetes migration for 40+ services with zero downtime
+• Designed circuit-breaker patterns reducing cascading failures by 90%
+• Established SRE practices including SLOs, error budgets, and on-call
+
+Senior Software Engineer — Paytm, Noida, Uttar Pradesh
+Jul 2017 – Feb 2020
+• Built real-time payment processing system using Spring Boot and Kafka
+• Implemented OAuth2/OIDC authentication for 2M+ users
+• Optimized database queries reducing p99 latency from 800ms to 120ms
+
+Software Engineer — Wipro Technologies, Bangalore, Karnataka
+Jun 2015 – Jun 2017
+• Developed e-commerce backend using Java and Spring MVC
+• Integrated third-party payment gateways (Razorpay, PayU)
+• Automated deployment workflows using Jenkins and Ansible
+
+EDUCATION
+M.Tech Computer Science — IIT Madras (2015)
+B.Tech Computer Science — NIT Trichy (2013)
+
+CERTIFICATIONS
+• Certified Kubernetes Administrator (CKA)
+• Oracle Certified Professional Java SE 17 Developer

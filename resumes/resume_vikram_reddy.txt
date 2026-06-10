@@ -1,0 +1,41 @@
+VIKRAM REDDY
+Email: vikram.reddy@email.com | Phone: +91 54321 09876
+LinkedIn: linkedin.com/in/vikramreddy | GitHub: github.com/vikramreddy
+Location: Hyderabad, Telangana
+
+PROFESSIONAL SUMMARY
+Data Engineer with 4 years of experience designing and maintaining
+large-scale data platforms. Skilled in Python, Apache Spark, and
+modern data stack technologies.
+
+SKILLS
+Languages: Python, Scala, SQL, Java
+Big Data: Apache Spark, Kafka, Flink, Hadoop
+Data Tools: Airflow, dbt, Snowflake, BigQuery, Redshift
+Cloud: AWS (EMR, Glue, S3, Kinesis), GCP (Dataflow, Pub/Sub)
+Databases: PostgreSQL, Cassandra, HBase, Delta Lake
+Tools: Git, Docker, Kubernetes, Terraform, Great Expectations
+
+WORK EXPERIENCE
+
+Senior Data Engineer — Amazon India, Hyderabad, Telangana
+Jan 2022 – Present
+• Architected real-time streaming pipeline processing 2B events/day using Kafka and Spark
+• Led migration from Hadoop to Snowflake reducing query times by 75%
+• Built data quality monitoring framework using Great Expectations and Python
+• Designed dimensional data models serving analytics for 500+ internal users
+
+Data Engineer — Mu Sigma, Bangalore, Karnataka
+Jun 2020 – Dec 2021
+• Built ETL pipelines processing 5TB of daily sales data using Python and Spark
+• Implemented data lake architecture on AWS S3 with Delta Lake format
+• Created dbt models for business-critical KPI dashboards
+• Automated data pipeline orchestration using Apache Airflow
+
+EDUCATION
+M.Tech Computer Science — IIIT Hyderabad (2020)
+B.Tech Information Technology — NIT Warangal (2018)
+
+CERTIFICATIONS
+• Databricks Certified Data Engineer Professional
+• AWS Certified Data Analytics – Specialty

@@ -1,0 +1,338 @@
+{
+  "job_description": "JOB TITLE: Mobile Developer (Flutter / React Native)\nCOMPANY: UrbanGo Mobility\nLOCATION: Bangalore, Karnataka (On-site)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nWe are looking for a Mobile Developer to build cross-platform\nmobile applications using Flutter or React Native. You will work\non our consumer-facing mobility app used by millions of commuters.\n\nRESPONSIBILITIES\n• Build cross-platform mobile applications using Flutter or React Native\n• Implement complex UI designs with smooth animations\n• In...",
+  "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_mobile_developer.txt",
+  "parsed_jd": {
+    "title": "Mobile Developer (Flutter / React Native)",
+    "company": "UrbanGo Mobility",
+    "min_experience_years": 3,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T20:58:58.370625",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "KARAN MALHOTRA",
+      "resume_path": "resumes/resume_karan_malhotra.txt",
+      "match_score": 75,
+      "score_breakdown": {
+        "semantic_similarity": 62.0,
+        "skill_match": 74.0,
+        "experience_match": 84,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "git",
+        "dart",
+        "rest",
+        "java",
+        "flutter",
+        "ci/cd",
+        "kotlin",
+        "javascript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)"
+      ],
+      "relevant_excerpts": [
+        "KARAN MALHOTRA\nEmail: karan.malhotra@email.com | Phone: +91 11223 34455\nLinkedIn: linkedin.com/in/karanmalhotra | GitHub: github.com/karanmalhotra\nLocation: Chandigarh, Punjab\n\nPROFESSIONAL SUMMARY\nCross-Platform Mobile Developer with 3 years of experience building\nproduction Flutter applications. S..."
+      ],
+      "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). KARAN MALHOTRA has 4 years of experience (meets 3+ year requirement). Key matched skills: git, dart, rest, java, flutter. Gaps: 3+ years of mobile development experience, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+      "experience_years": 4,
+      "current_role": "Senior Flutter Developer",
+      "location": "Chandigarh, Punjab"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "ROHAN MEHTA",
+      "resume_path": "resumes/resume_rohan_mehta.pdf",
+      "match_score": 74,
+      "score_breakdown": {
+        "semantic_similarity": 64.7,
+        "skill_match": 68.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "dart",
+        "react native",
+        "rest",
+        "java",
+        "flutter",
+        "git",
+        "react",
+        "kotlin"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "experience with state management (bloc, provider, redux)"
+      ],
+      "relevant_excerpts": [
+        "ROHAN MEHTA\nEmail: rohan.mehta@email.com | Phone: +91 99001 12233\nLinkedIn: linkedin.com/in/rohanmehta | GitHub: github.com/rohanmehta\nLocation: Bangalore, Karnataka\nPROFESSIONAL SUMMARY\nAndroid Developer with 4 years of experience building native mobile\napplications using Kotlin and Jetpack Compose..."
+      ],
+      "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). ROHAN MEHTA has 5 years of experience (meets 3+ year requirement). Key matched skills: dart, react native, rest, java, flutter. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux).",
+      "experience_years": 5,
+      "current_role": "Senior Android Developer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "VARUN TIWARI",
+      "resume_path": "resumes/resume_varun_tiwari.docx",
+      "match_score": 65,
+      "score_breakdown": {
+        "semantic_similarity": 46.3,
+        "skill_match": 62.0,
+        "experience_match": 84,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "react",
+        "java",
+        "typescript",
+        "git",
+        "go",
+        "javascript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)"
+      ],
+      "relevant_excerpts": [
+        "Full-Stack Developer — Lenskart, Bangalore, Karnataka\nJan 2023 – Present\n• Built e-commerce virtual try-on feature using React and WebGL\n• Developed Node.js microservices for order management system\n• Implemented server-side rendering with Next.js improving page speed by 35%\n• Built admin dashboard ..."
+      ],
+      "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). VARUN TIWARI has 4 years of experience (meets 3+ year requirement). Key matched skills: react, java, typescript, git, go. Gaps: 3+ years of mobile development experience, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+      "experience_years": 4,
+      "current_role": "Full",
+      "location": "Indore, Madhya Pradesh"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "RITU SHARMA",
+      "resume_path": "resumes/resume_ritu_sharma.docx",
+      "match_score": 62,
+      "score_breakdown": {
+        "semantic_similarity": 26.3,
+        "skill_match": 78.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "git",
+        "rest",
+        "java",
+        "ci/cd",
+        "javascript"
+      ],
+      "missing_skills": [
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "RITU SHARMA\nEmail: ritu.sharma@email.com | Phone: +91 99001 22334\nLinkedIn: linkedin.com/in/ritusharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nTechnical Writer with 4 years of experience creating developer\ndocumentation, API references, and technical guides. Proficient\nin docs-as-code w..."
+      ],
+      "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). RITU SHARMA has 5 years of experience (meets 3+ year requirement). Key matched skills: git, rest, java, ci/cd, javascript. Gaps: published apps on google play store and/or apple app store.",
+      "experience_years": 5,
+      "current_role": "Senior Technical Writer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "NISHA BANERJEE",
+      "resume_path": "resumes/resume_nisha_banerjee.txt",
+      "match_score": 56,
+      "score_breakdown": {
+        "semantic_similarity": 39.7,
+        "skill_match": 42.0,
+        "experience_match": 84,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "git",
+        "rest",
+        "swift"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "strong flutter (dart) or react native (javascript/typescript) skills",
+        "experience with state management (bloc, provider, redux)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "NISHA BANERJEE\nEmail: nisha.banerjee@email.com | Phone: +91 88990 11223\nLinkedIn: linkedin.com/in/nishabanerjee\nLocation: Kolkata, West Bengal\n\nPROFESSIONAL SUMMARY\niOS Developer with 3 years of experience building polished, performant\niOS applications using Swift and SwiftUI. Passionate about great..."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). NISHA BANERJEE has 4 years of experience (meets 3+ year requirement). Key matched skills: git, rest, swift. Gaps: 3+ years of mobile development experience, strong flutter (dart) or react native (javascript/typescript) skills, experience with state management (bloc, provider, redux).",
+      "experience_years": 4,
+      "current_role": "iOS Developer",
+      "location": "Kolkata, West Bengal"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "SNEHA IYER",
+      "resume_path": "resumes/resume_sneha_iyer.docx",
+      "match_score": 55,
+      "score_breakdown": {
+        "semantic_similarity": 41.1,
+        "skill_match": 30.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "react",
+        "rest",
+        "java",
+        "typescript",
+        "git",
+        "go",
+        "javascript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "familiarity with restful apis and firebase",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "Senior Full-Stack Developer — Razorpay, Bangalore, Karnataka\nApr 2021 – Present\n• Led development of SaaS platform used by 200K+ businesses\n• Built server-side rendered app using Next.js improving SEO scores by 45%\n• Implemented real-time collaboration features using WebSockets\n• Reduced page load t..."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). SNEHA IYER has 8 years of experience (meets 3+ year requirement). Key matched skills: react, rest, java, typescript, git. Gaps: 3+ years of mobile development experience, familiarity with restful apis and firebase, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+      "experience_years": 8,
+      "current_role": "Senior Full",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "HARISH MENON",
+      "resume_path": "resumes/resume_harish_menon.pdf",
+      "match_score": 41,
+      "score_breakdown": {
+        "semantic_similarity": 22.0,
+        "skill_match": 26.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "rest",
+        "java",
+        "git",
+        "go",
+        "javascript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "experience with state management (bloc, provider, redux)",
+        "familiarity with restful apis and firebase",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). HARISH MENON has 8 years of experience (meets 3+ year requirement). Key matched skills: rest, java, git, go, javascript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+      "experience_years": 8,
+      "current_role": "Senior Python Developer",
+      "location": "Kochi, Kerala"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "ANKIT PATEL",
+      "resume_path": "resumes/resume_ankit_patel.docx",
+      "match_score": 41,
+      "score_breakdown": {
+        "semantic_similarity": 27.1,
+        "skill_match": 20.0,
+        "experience_match": 60,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "git",
+        "typescript",
+        "go",
+        "rest"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "experience with state management (bloc, provider, redux)",
+        "familiarity with restful apis and firebase",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). ANKIT PATEL has 2 years of experience (3+ required). Key matched skills: git, typescript, go, rest. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+      "experience_years": 2,
+      "current_role": "Backend Developer",
+      "location": "Ahmedabad, Gujarat"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "KAVITA SINGH",
+      "resume_path": "resumes/resume_kavita_singh.txt",
+      "match_score": 40,
+      "score_breakdown": {
+        "semantic_similarity": 27.0,
+        "skill_match": 20.0,
+        "experience_match": 96,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "java",
+        "typescript",
+        "git",
+        "react",
+        "javascript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "experience with state management (bloc, provider, redux)",
+        "familiarity with restful apis and firebase",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). KAVITA SINGH has 7 years of experience (meets 3+ year requirement). Key matched skills: java, typescript, git, react, javascript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+      "experience_years": 7,
+      "current_role": "Senior Developer",
+      "location": "Jaipur, Rajasthan"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "ANJALI CHOUDHARY",
+      "resume_path": "resumes/resume_anjali_choudhary.docx",
+      "match_score": 40,
+      "score_breakdown": {
+        "semantic_similarity": 26.1,
+        "skill_match": 20.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "ci/cd",
+        "git",
+        "go",
+        "typescript"
+      ],
+      "missing_skills": [
+        "3+ years of mobile development experience",
+        "experience with state management (bloc, provider, redux)",
+        "familiarity with restful apis and firebase",
+        "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+        "published apps on google play store and/or apple app store"
+      ],
+      "relevant_excerpts": [
+        "ANJALI CHOUDHARY\nEmail: anjali.choudhary@email.com | Phone: +91 88665 54432\nLinkedIn: linkedin.com/in/anjalichoudhary\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nPlatform Engineer with 8 years of experience building internal\ndeveloper platforms, CI/CD systems, and infrastructure automation...."
+      ],
+      "reasoning": "Partial match for Mobile Developer (Flutter / React Native). ANJALI CHOUDHARY has 10 years of experience (meets 3+ year requirement). Key matched skills: ci/cd, git, go, typescript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+      "experience_years": 10,
+      "current_role": "Principal Platform Engineer",
+      "location": "Bangalore, Karnataka"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 76,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

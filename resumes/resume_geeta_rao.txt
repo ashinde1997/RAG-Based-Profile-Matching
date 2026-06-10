@@ -1,0 +1,44 @@
+GEETA RAO
+Email: geeta.rao@email.com | Phone: +91 77665 54433
+LinkedIn: linkedin.com/in/geetarao
+Location: Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Senior Product Manager with 7 years of experience leading B2B SaaS
+products from ideation to scale. Strong technical background with
+expertise in data-driven product development and platform strategy.
+
+SKILLS
+Product: Roadmap Planning, PRDs, User Stories, A/B Testing, OKRs
+Analytics: SQL, Amplitude, Mixpanel, Google Analytics, Tableau
+Technical: Python, REST APIs, System Design (basic), Git
+Design: Figma, Miro, User Research, Design Sprints
+Process: Agile/Scrum, Kanban, RICE Framework, Jobs-to-be-Done
+Tools: Jira, Notion, Confluence, Linear, ProductBoard
+
+WORK EXPERIENCE
+
+Senior Product Manager — Freshworks, Chennai, Tamil Nadu
+Jan 2022 – Present
+• Led product strategy for CRM platform serving 60K+ businesses
+• Launched AI-powered ticket classification feature increasing resolution by 30%
+• Drove 45% increase in enterprise revenue through platform API improvements
+• Managed cross-functional team of 12 engineers, 3 designers, and 2 analysts
+• Conducted 100+ customer interviews for product discovery
+
+Product Manager — Zoho Corporation, Chennai, Tamil Nadu
+Jul 2019 – Dec 2021
+• Owned product roadmap for Zoho Analytics with 5M+ users
+• Launched self-service dashboard builder increasing user engagement by 40%
+• Implemented data pipeline monitoring features using SQL and Python
+• Worked with engineering to define API contracts and technical requirements
+
+Associate Product Manager — Ola Cabs, Bangalore, Karnataka
+Jun 2017 – Jun 2019
+• Managed driver incentive optimization product reducing costs by 20%
+• Designed and launched new ride categories based on market research
+• Ran A/B tests for pricing algorithms using internal analytics platform
+
+EDUCATION
+MBA — IIM Bangalore (2017)
+B.Tech Computer Science — NIT Surathkal (2015)

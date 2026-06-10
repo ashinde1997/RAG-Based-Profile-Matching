@@ -1,0 +1,43 @@
+KAVITA SINGH
+Email: kavita.singh@email.com | Phone: +91 21098 76543
+LinkedIn: linkedin.com/in/kavitasingh
+Location: Jaipur, Rajasthan
+
+PROFESSIONAL SUMMARY
+Full-Stack Developer with 5 years of experience specializing in
+Ruby on Rails, GraphQL, and modern frontend technologies.
+Passionate about developer experience and API design.
+
+SKILLS
+Languages: Ruby, JavaScript, TypeScript, SQL, Python
+Backend: Ruby on Rails, Sinatra, Sidekiq, GraphQL (graphql-ruby)
+Frontend: React, Stimulus, Hotwire (Turbo + Stimulus), Tailwind CSS
+Databases: PostgreSQL, Redis, Elasticsearch
+Cloud & DevOps: Heroku, AWS, Docker, CircleCI, Datadog
+Tools: Git, RSpec, Minitest, Rubocop, Webpack
+
+WORK EXPERIENCE
+
+Senior Developer — Zerodha, Bangalore, Karnataka
+Feb 2022 – Present
+• Lead developer on Rails 7 application serving 50K+ subscribers
+• Migrated REST API to GraphQL reducing frontend data fetching by 60%
+• Implemented real-time notifications using Hotwire and ActionCable
+• Improved deployment pipeline reducing release cycle from 1 week to daily
+
+Full-Stack Developer — Hasura, Bangalore, Karnataka
+Jun 2019 – Jan 2022
+• Built multi-tenant e-commerce platform using Ruby on Rails
+• Developed custom payment integration with Razorpay and PayU
+• Created admin dashboard using React and GraphQL
+
+Junior Developer — Mindtree, Pune, Maharashtra
+May 2018 – May 2019
+• Developed features for content management system in Rails
+• Wrote RSpec tests maintaining 90% code coverage
+
+EDUCATION
+B.Tech Computer Science — MNIT Jaipur (2018)
+
+CERTIFICATIONS
+• AWS Certified Cloud Practitioner

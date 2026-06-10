@@ -1,0 +1,346 @@
+{
+  "job_description": "JOB TITLE: DevOps / SRE Engineer\nCOMPANY: CloudScale Infrastructure\nLOCATION: Hyderabad, Telangana (Hybrid)\nEXPERIENCE: 4+ years\n\nABOUT THE ROLE\nWe need a DevOps/SRE Engineer to build and maintain our cloud\ninfrastructure, CI/CD pipelines, and monitoring systems. You will\nensure high availability, automate operations, and establish SRE\nbest practices across the engineering organization.\n\nRESPONSIBILITIES\n• Design and manage Kubernetes clusters on AWS/GCP\n• Build and maintain CI/CD pipelines usin...",
+  "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_devops_sre.txt",
+  "parsed_jd": {
+    "title": "DevOps / SRE Engineer",
+    "company": "CloudScale Infrastructure",
+    "min_experience_years": 4,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T20:58:58.137974",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "DEEPAK GUPTA",
+      "resume_path": "resumes/resume_deepak_gupta.txt",
+      "match_score": 79,
+      "score_breakdown": {
+        "semantic_similarity": 68.2,
+        "skill_match": 74.0,
+        "experience_match": 96,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "datadog",
+        "prometheus",
+        "git",
+        "kubernetes",
+        "gcp",
+        "grafana",
+        "aws",
+        "python",
+        "go",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Senior DevOps Engineer — PhonePe, Bangalore, Karnataka\nOct 2021 – Present\n• Architected Kubernetes platform hosting 100+ microservices on AWS EKS\n• Built zero-downtime deployment pipeline using ArgoCD and Helm\n• Developed Python-based infrastructure automation reducing provisioning time\n• Implemente..."
+      ],
+      "reasoning": "Moderate match for DevOps / SRE Engineer. DEEPAK GUPTA has 8 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+      "experience_years": 8,
+      "current_role": "Senior DevOps Engineer",
+      "location": "Delhi NCR"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "ANJALI CHOUDHARY",
+      "resume_path": "resumes/resume_anjali_choudhary.docx",
+      "match_score": 70,
+      "score_breakdown": {
+        "semantic_similarity": 65.0,
+        "skill_match": 68.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "datadog",
+        "prometheus",
+        "git",
+        "kubernetes",
+        "gcp",
+        "grafana",
+        "aws",
+        "python",
+        "go",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+      ],
+      "reasoning": "Moderate match for DevOps / SRE Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+      "experience_years": 10,
+      "current_role": "Principal Platform Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "LAKSHMI SUNDARAM",
+      "resume_path": "resumes/resume_lakshmi_sundaram.pdf",
+      "match_score": 68,
+      "score_breakdown": {
+        "semantic_similarity": 54.2,
+        "skill_match": 80.0,
+        "experience_match": 92,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "datadog",
+        "prometheus",
+        "git",
+        "kubernetes",
+        "gcp",
+        "grafana",
+        "aws",
+        "python",
+        "go",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Senior SRE — Atlassian India, Bangalore, Karnataka\nApr 2022 – Present\n Managed Kubernetes clusters serving 10M+ daily active users\n Built SLO monitoring platform using Prometheus and custom Go exporter\n Led chaos engineering program using Litmus and Chaos Monkey\n Reduced MTTR from 45 min to 12 m..."
+      ],
+      "reasoning": "Moderate match for DevOps / SRE Engineer. LAKSHMI SUNDARAM has 7 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+      "experience_years": 7,
+      "current_role": "Senior SRE",
+      "location": "Chennai, Tamil Nadu"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "PRIYA NAIR",
+      "resume_path": "resumes/resume_priya_nair.txt",
+      "match_score": 67,
+      "score_breakdown": {
+        "semantic_similarity": 46.6,
+        "skill_match": 62.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "prometheus",
+        "git",
+        "kubernetes",
+        "gcp",
+        "grafana",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "proficiency with terraform or similar iac tools"
+      ],
+      "relevant_excerpts": [
+        "PRIYA NAIR\nEmail: priya.nair@email.com | Phone: +91 87654 32109\nLinkedIn: linkedin.com/in/priyanair\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nStaff Software Engineer with 8 years of experience in enterprise Java\ndevelopment, distributed systems, and container orchestration.\nProven track r..."
+      ],
+      "reasoning": "Moderate match for DevOps / SRE Engineer. PRIYA NAIR has 10 years of experience (meets 4+ year requirement). Key matched skills: prometheus, git, kubernetes, gcp, grafana. Gaps: 4+ years of devops/sre experience, proficiency with terraform or similar iac tools.",
+      "experience_years": 10,
+      "current_role": "Staff Software Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "SIDDHARTH JOSHI",
+      "resume_path": "resumes/resume_siddharth_joshi.txt",
+      "match_score": 64,
+      "score_breakdown": {
+        "semantic_similarity": 41.1,
+        "skill_match": 58.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "kubernetes",
+        "aws",
+        "python",
+        "go",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "experience with monitoring tools (prometheus, grafana, datadog)",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Principal Cloud Architect — Accenture India, Pune, Maharashtra\nJan 2021 – Present\n• Led cloud migration for banking client moving 200+ applications to AWS\n• Designed multi-region disaster recovery achieving RPO <15min, RTO <1hr\n• Established FinOps practice reducing cloud spend by $2M annually\n• Bui..."
+      ],
+      "reasoning": "Moderate match for DevOps / SRE Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, aws, python, go, terraform. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog), understanding of ci/cd principles and tools.",
+      "experience_years": 11,
+      "current_role": "Principal Cloud Architect",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "VIKRAM REDDY",
+      "resume_path": "resumes/resume_vikram_reddy.txt",
+      "match_score": 54,
+      "score_breakdown": {
+        "semantic_similarity": 33.8,
+        "skill_match": 62.0,
+        "experience_match": 84,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "git",
+        "kubernetes",
+        "gcp",
+        "aws",
+        "python",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "experience with monitoring tools (prometheus, grafana, datadog)"
+      ],
+      "relevant_excerpts": [
+        "VIKRAM REDDY\nEmail: vikram.reddy@email.com | Phone: +91 54321 09876\nLinkedIn: linkedin.com/in/vikramreddy | GitHub: github.com/vikramreddy\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nData Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Py..."
+      ],
+      "reasoning": "Partial match for DevOps / SRE Engineer. VIKRAM REDDY has 5 years of experience (meets 4+ year requirement). Key matched skills: git, kubernetes, gcp, aws, python. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog).",
+      "experience_years": 5,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "VIVEK SHANKAR",
+      "resume_path": "resumes/resume_vivek_shankar.txt",
+      "match_score": 53,
+      "score_breakdown": {
+        "semantic_similarity": 29.4,
+        "skill_match": 62.0,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "git",
+        "kubernetes",
+        "gcp",
+        "aws",
+        "python",
+        "terraform"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "experience with monitoring tools (prometheus, grafana, datadog)"
+      ],
+      "relevant_excerpts": [
+        "• Databricks Certified Data Engineer Professional\n• AWS Certified Big Data – Specialty"
+      ],
+      "reasoning": "Partial match for DevOps / SRE Engineer. VIVEK SHANKAR has 6 years of experience (meets 4+ year requirement). Key matched skills: git, kubernetes, gcp, aws, python. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog).",
+      "experience_years": 6,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "ARUN KUMAR",
+      "resume_path": "resumes/resume_arun_kumar.txt",
+      "match_score": 52,
+      "score_breakdown": {
+        "semantic_similarity": 37.9,
+        "skill_match": 26.0,
+        "experience_match": 96,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "git",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "strong kubernetes expertise (deployment, scaling, troubleshooting)",
+        "proficiency with terraform or similar iac tools",
+        "experience with monitoring tools (prometheus, grafana, datadog)",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "ARUN KUMAR\nEmail: arun.kumar@email.com | Phone: +91 55667 78899\nLinkedIn: linkedin.com/in/arunkumar\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nCybersecurity Engineer with 6 years of experience in application\nsecurity, penetration testing, and cloud security. Skilled in\nPython scripting, SA..."
+      ],
+      "reasoning": "Partial match for DevOps / SRE Engineer. ARUN KUMAR has 8 years of experience (meets 4+ year requirement). Key matched skills: git, aws, python, go. Gaps: 4+ years of devops/sre experience, strong kubernetes expertise (deployment, scaling, troubleshooting), proficiency with terraform or similar iac tools.",
+      "experience_years": 8,
+      "current_role": "Senior Security Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "POOJA DESHMUKH",
+      "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+      "match_score": 50,
+      "score_breakdown": {
+        "semantic_similarity": 28.1,
+        "skill_match": 58.0,
+        "experience_match": 84,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "prometheus",
+        "git",
+        "kubernetes",
+        "gcp",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "proficiency with terraform or similar iac tools",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Languages: Go, Python, Rust, SQL, Protobuf\nFrameworks: Gin, Echo, gRPC-Go, NATS, Temporal\nInfrastructure: Kubernetes, Docker, Istio, Envoy, Consul\nDatabases: PostgreSQL, CockroachDB, Redis, etcd, ScyllaDB\nCloud: GCP (GKE, Cloud Run, Pub/Sub, Spanner), AWS\nTools: Git, Buf, Wire, GoReleaser, Prometheu..."
+      ],
+      "reasoning": "Partial match for DevOps / SRE Engineer. POOJA DESHMUKH has 5 years of experience (meets 4+ year requirement). Key matched skills: prometheus, git, kubernetes, gcp, aws. Gaps: 4+ years of devops/sre experience, proficiency with terraform or similar iac tools, understanding of ci/cd principles and tools.",
+      "experience_years": 5,
+      "current_role": "Backend Engineer",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "ARJUN SHARMA",
+      "resume_path": "resumes/resume_arjun_sharma.txt",
+      "match_score": 49,
+      "score_breakdown": {
+        "semantic_similarity": 43.3,
+        "skill_match": 30.0,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "git",
+        "python",
+        "go",
+        "terraform",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of devops/sre experience",
+        "strong kubernetes expertise (deployment, scaling, troubleshooting)",
+        "experience with monitoring tools (prometheus, grafana, datadog)",
+        "understanding of ci/cd principles and tools"
+      ],
+      "relevant_excerpts": [
+        "Senior Software Engineer — Flipkart, Bangalore, Karnataka\nJune 2021 – Present\n• Led migration of monolithic Django application to microservices architecture\n• Designed and implemented RESTful APIs serving 10M+ requests/day\n• Reduced AWS infrastructure costs by 30% through resource optimization\n• Men..."
+      ],
+      "reasoning": "Partial match for DevOps / SRE Engineer. ARJUN SHARMA has 6 years of experience (meets 4+ year requirement). Key matched skills: git, python, go, terraform, aws. Gaps: 4+ years of devops/sre experience, strong kubernetes expertise (deployment, scaling, troubleshooting), experience with monitoring tools (prometheus, grafana, datadog).",
+      "experience_years": 6,
+      "current_role": "Senior Software Engineer",
+      "location": "Bangalore, Karnataka"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 68,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

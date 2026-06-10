@@ -1,0 +1,52 @@
+FATIMA SHEIKH
+Email: fatima.sheikh@email.com | Phone: +91 66443 32210
+LinkedIn: linkedin.com/in/fatimasheikh | GitHub: github.com/fatimasheikh
+Location: Mumbai, Maharashtra
+
+PROFESSIONAL SUMMARY
+ML Engineer with 5 years of experience building production machine
+learning systems using Python, PyTorch, and AWS. Specializes in NLP,
+recommendation systems, and ML infrastructure.
+
+SKILLS
+Languages: Python, SQL, Scala, Bash
+ML/AI: PyTorch, scikit-learn, Hugging Face, LangChain, XGBoost
+NLP: Transformers, BERT, GPT, Sentence Embeddings, RAG, spaCy
+MLOps: AWS SageMaker, MLflow, Kubeflow, Airflow, Docker
+Cloud: AWS (EC2, S3, Lambda, ECS, Bedrock), GCP
+Tools: Git, Jupyter, Weights & Biases, DVC, FastAPI
+
+WORK EXPERIENCE
+
+Senior ML Engineer — Amazon India, Mumbai, Maharashtra
+Jan 2022 – Present
+• Built multi-modal product search using CLIP embeddings and FAISS
+• Developed text classification pipeline using fine-tuned BERT models
+• Designed RAG system for internal knowledge base using LangChain and OpenSearch
+• Implemented feature store using AWS SageMaker Feature Store
+• Reduced ML model deployment time from 2 weeks to 2 hours with CI/CD
+
+ML Engineer — Myntra (Flipkart Group), Bangalore, Karnataka
+May 2020 – Dec 2021
+• Built fashion recommendation engine using collaborative filtering and deep learning
+• Developed size prediction model reducing returns by 15%
+• Created NLP pipeline for review sentiment analysis using transformers
+• Deployed models as REST APIs using FastAPI and Docker on AWS ECS
+
+Data Science Intern — IISC Bangalore, Bangalore, Karnataka
+Jun 2019 – Apr 2020
+• Researched attention mechanisms for text summarization
+• Developed sequence-to-sequence models for abstractive summarization
+• Published paper at NAACL 2020 student workshop
+
+EDUCATION
+M.Tech AI & ML — IISc Bangalore (2020)
+B.Tech Computer Science — COEP Pune (2018)
+
+PUBLICATIONS
+• "Attention-Guided Abstractive Summarization" — NAACL Student Workshop 2020
+• "Multi-Modal Search for E-Commerce" — RecSys 2023
+
+CERTIFICATIONS
+• AWS Certified Machine Learning – Specialty
+• Deep Learning Specialization (Coursera – Andrew Ng)

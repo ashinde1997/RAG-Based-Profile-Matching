@@ -1,0 +1,2113 @@
+[
+  {
+    "job_description": "JOB TITLE: Data Engineer\nCOMPANY: InsightFlow Analytics\nLOCATION: Hyderabad, Telangana (Remote-Friendly)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nJoin our data platform team to build scalable data pipelines and\nanalytics infrastructure. You will design ETL processes, manage\ndata warehouses, and ensure data quality across the organization.\n\nRESPONSIBILITIES\n• Design and build ETL/ELT data pipelines using Python and Spark\n• Manage and optimize data warehouse (Snowflake/BigQuery/Redshift)\n• Implement d...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_data_engineer.txt",
+    "parsed_jd": {
+      "title": "Data Engineer",
+      "company": "InsightFlow Analytics",
+      "min_experience_years": 3,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.067865",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "VIKRAM REDDY",
+        "resume_path": "resumes/resume_vikram_reddy.txt",
+        "match_score": 81,
+        "score_breakdown": {
+          "semantic_similarity": 72.8,
+          "skill_match": 100,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "scala",
+          "spark",
+          "ai",
+          "redshift",
+          "bigquery",
+          "gcp",
+          "snowflake",
+          "dbt",
+          "kafka",
+          "flink",
+          "aws",
+          "python",
+          "terraform",
+          "airflow"
+        ],
+        "missing_skills": [],
+        "relevant_excerpts": [
+          "Senior Data Engineer — Amazon India, Hyderabad, Telangana\nJan 2022 – Present\n• Architected real-time streaming pipeline processing 2B events/day using Kafka and Spark\n• Led migration from Hadoop to Snowflake reducing query times by 75%\n• Built data quality monitoring framework using Great Expectatio..."
+        ],
+        "reasoning": "Strong match for Data Engineer. VIKRAM REDDY has 5 years of experience (meets 3+ year requirement). Key matched skills: scala, spark, ai, redshift, bigquery.",
+        "experience_years": 5,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "VIVEK SHANKAR",
+        "resume_path": "resumes/resume_vivek_shankar.txt",
+        "match_score": 80,
+        "score_breakdown": {
+          "semantic_similarity": 68.8,
+          "skill_match": 100,
+          "experience_match": 92,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "scala",
+          "spark",
+          "ai",
+          "redshift",
+          "bigquery",
+          "gcp",
+          "snowflake",
+          "dbt",
+          "kafka",
+          "flink",
+          "aws",
+          "python",
+          "terraform",
+          "airflow"
+        ],
+        "missing_skills": [],
+        "relevant_excerpts": [
+          "VIVEK SHANKAR\nEmail: vivek.shankar@email.com | Phone: +91 77554 43321\nLinkedIn: linkedin.com/in/vivekshankar | GitHub: github.com/vivekshankar\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nBig Data Engineer with 5 years of experience building large-scale\ndata processing systems using Scala, A..."
+        ],
+        "reasoning": "Strong match for Data Engineer. VIVEK SHANKAR has 6 years of experience (meets 3+ year requirement). Key matched skills: scala, spark, ai, redshift, bigquery.",
+        "experience_years": 6,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "DEEPAK GUPTA",
+        "resume_path": "resumes/resume_deepak_gupta.txt",
+        "match_score": 70,
+        "score_breakdown": {
+          "semantic_similarity": 36.8,
+          "skill_match": 84.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ai",
+          "gcp",
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "missing_skills": [
+          "experience with apache spark (pyspark or scala)"
+        ],
+        "relevant_excerpts": [
+          "DEEPAK GUPTA\nEmail: deepak.gupta@email.com | Phone: +91 10987 65432\nLinkedIn: linkedin.com/in/deepakgupta | GitHub: github.com/deepakgupta\nLocation: Delhi NCR\n\nPROFESSIONAL SUMMARY\nDevOps Engineer with 6 years of experience in CI/CD, infrastructure\nautomation, and cloud architecture. Expert in Pytho..."
+        ],
+        "reasoning": "Moderate match for Data Engineer. DEEPAK GUPTA has 8 years of experience (meets 3+ year requirement). Key matched skills: ai, gcp, aws, python, terraform. Gaps: experience with apache spark (pyspark or scala).",
+        "experience_years": 8,
+        "current_role": "Senior DevOps Engineer",
+        "location": "Delhi NCR"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "NEHA KAPOOR",
+        "resume_path": "resumes/resume_neha_kapoor.txt",
+        "match_score": 69,
+        "score_breakdown": {
+          "semantic_similarity": 52.4,
+          "skill_match": 68.0,
+          "experience_match": 84,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ai",
+          "redshift",
+          "bigquery",
+          "dbt",
+          "python",
+          "airflow"
+        ],
+        "missing_skills": [
+          "experience with apache spark (pyspark or scala)",
+          "experience with aws or gcp cloud services"
+        ],
+        "relevant_excerpts": [
+          "NEHA KAPOOR\nEmail: neha.kapoor@email.com | Phone: +91 33221 10099\nLinkedIn: linkedin.com/in/nehakapoor\nLocation: Gurugram, Haryana\n\nPROFESSIONAL SUMMARY\nData Analyst with 3 years of experience in business intelligence,\nSQL analytics, and dashboard development. Skilled in translating\ncomplex data int..."
+        ],
+        "reasoning": "Moderate match for Data Engineer. NEHA KAPOOR has 4 years of experience (meets 3+ year requirement). Key matched skills: ai, redshift, bigquery, dbt, python. Gaps: experience with apache spark (pyspark or scala), experience with aws or gcp cloud services.",
+        "experience_years": 4,
+        "current_role": "Data Analyst",
+        "location": "Gurugram, Haryana"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "ANJALI CHOUDHARY",
+        "resume_path": "resumes/resume_anjali_choudhary.docx",
+        "match_score": 67,
+        "score_breakdown": {
+          "semantic_similarity": 44.0,
+          "skill_match": 84.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "aws",
+          "gcp",
+          "terraform",
+          "python"
+        ],
+        "missing_skills": [
+          "experience with apache spark (pyspark or scala)"
+        ],
+        "relevant_excerpts": [
+          "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+        ],
+        "reasoning": "Moderate match for Data Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 3+ year requirement). Key matched skills: aws, gcp, terraform, python. Gaps: experience with apache spark (pyspark or scala).",
+        "experience_years": 10,
+        "current_role": "Principal Platform Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "SWATI PATIL",
+        "resume_path": "resumes/resume_swati_patil.txt",
+        "match_score": 63,
+        "score_breakdown": {
+          "semantic_similarity": 49.0,
+          "skill_match": 50.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "spark",
+          "ai",
+          "redshift",
+          "gcp",
+          "bigquery",
+          "aws",
+          "python",
+          "airflow"
+        ],
+        "missing_skills": [
+          "3+ years of data engineering experience",
+          "understanding of data modeling concepts"
+        ],
+        "relevant_excerpts": [
+          "SWATI PATIL\nEmail: swati.patil@email.com | Phone: +91 55443 32211\nLinkedIn: linkedin.com/in/swatipatil | GitHub: github.com/swatipatil\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nData Scientist with 4 years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled in ..."
+        ],
+        "reasoning": "Moderate match for Data Engineer. SWATI PATIL has 5 years of experience (meets 3+ year requirement). Key matched skills: spark, ai, redshift, gcp, bigquery. Gaps: 3+ years of data engineering experience, understanding of data modeling concepts.",
+        "experience_years": 5,
+        "current_role": "Senior Data Scientist",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "SIDDHARTH JOSHI",
+        "resume_path": "resumes/resume_siddharth_joshi.txt",
+        "match_score": 58,
+        "score_breakdown": {
+          "semantic_similarity": 38.6,
+          "skill_match": 42.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ai",
+          "bigquery",
+          "gcp",
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "missing_skills": [
+          "3+ years of data engineering experience",
+          "experience with apache spark (pyspark or scala)",
+          "familiarity with data orchestration tools (airflow, prefect)",
+          "understanding of data modeling concepts"
+        ],
+        "relevant_excerpts": [
+          "SIDDHARTH JOSHI\nEmail: siddharth.joshi@email.com | Phone: +91 77889 90011\nLinkedIn: linkedin.com/in/siddharthjoshi\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nCloud Solutions Architect with 10 years of experience designing\nenterprise-grade cloud infrastructure on AWS and GCP. Led cloud\ntransfo..."
+        ],
+        "reasoning": "Partial match for Data Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 3+ year requirement). Key matched skills: ai, bigquery, gcp, aws, python. Gaps: 3+ years of data engineering experience, experience with apache spark (pyspark or scala), familiarity with data orchestration tools (airflow, prefect).",
+        "experience_years": 11,
+        "current_role": "Principal Cloud Architect",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "RAHUL VERMA",
+        "resume_path": "resumes/resume_rahul_verma.pdf",
+        "match_score": 58,
+        "score_breakdown": {
+          "semantic_similarity": 36.2,
+          "skill_match": 52.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "spark",
+          "ai",
+          "dbt",
+          "aws",
+          "python",
+          "airflow"
+        ],
+        "missing_skills": [
+          "3+ years of data engineering experience",
+          "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+          "understanding of data modeling concepts"
+        ],
+        "relevant_excerpts": [
+          "RAHUL VERMA\nEmail: rahul.verma@email.com | Phone: +91 76543 21098\nLinkedIn: linkedin.com/in/rahulverma | GitHub: github.com/rahulverma\nLocation: Mumbai, Maharashtra\nPROFESSIONAL SUMMARY\nMachine Learning Engineer with 3 years of experience building and\ndeploying production ML systems. Strong foundati..."
+        ],
+        "reasoning": "Partial match for Data Engineer. RAHUL VERMA has 5 years of experience (meets 3+ year requirement). Key matched skills: spark, ai, dbt, aws, python. Gaps: 3+ years of data engineering experience, experience with cloud data warehouses (snowflake, bigquery, or redshift), understanding of data modeling concepts.",
+        "experience_years": 5,
+        "current_role": "Machine Learning Engineer",
+        "location": "Mumbai, Maharashtra"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "FATIMA SHEIKH",
+        "resume_path": "resumes/resume_fatima_sheikh.txt",
+        "match_score": 58,
+        "score_breakdown": {
+          "semantic_similarity": 34.0,
+          "skill_match": 52.0,
+          "experience_match": 92,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "scala",
+          "ai",
+          "gcp",
+          "aws",
+          "python",
+          "airflow"
+        ],
+        "missing_skills": [
+          "3+ years of data engineering experience",
+          "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+          "understanding of data modeling concepts"
+        ],
+        "relevant_excerpts": [
+          "ML Engineer with 5 years of experience building production machine\nlearning systems using Python, PyTorch, and AWS. Specializes in NLP,\nrecommendation systems, and ML infrastructure."
+        ],
+        "reasoning": "Partial match for Data Engineer. FATIMA SHEIKH has 6 years of experience (meets 3+ year requirement). Key matched skills: scala, ai, gcp, aws, python. Gaps: 3+ years of data engineering experience, experience with cloud data warehouses (snowflake, bigquery, or redshift), understanding of data modeling concepts.",
+        "experience_years": 6,
+        "current_role": "Senior ML Engineer",
+        "location": "Mumbai, Maharashtra"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "ARJUN SHARMA",
+        "resume_path": "resumes/resume_arjun_sharma.txt",
+        "match_score": 51,
+        "score_breakdown": {
+          "semantic_similarity": 46.8,
+          "skill_match": 32.0,
+          "experience_match": 92,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "aws",
+          "python",
+          "terraform",
+          "ai"
+        ],
+        "missing_skills": [
+          "3+ years of data engineering experience",
+          "experience with apache spark (pyspark or scala)",
+          "familiarity with data orchestration tools (airflow, prefect)",
+          "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+          "understanding of data modeling concepts"
+        ],
+        "relevant_excerpts": [
+          "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+        ],
+        "reasoning": "Partial match for Data Engineer. ARJUN SHARMA has 6 years of experience (meets 3+ year requirement). Key matched skills: aws, python, terraform, ai. Gaps: 3+ years of data engineering experience, experience with apache spark (pyspark or scala), familiarity with data orchestration tools (airflow, prefect).",
+        "experience_years": 6,
+        "current_role": "Senior Software Engineer",
+        "location": "Bangalore, Karnataka"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 160,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  },
+  {
+    "job_description": "JOB TITLE: DevOps / SRE Engineer\nCOMPANY: CloudScale Infrastructure\nLOCATION: Hyderabad, Telangana (Hybrid)\nEXPERIENCE: 4+ years\n\nABOUT THE ROLE\nWe need a DevOps/SRE Engineer to build and maintain our cloud\ninfrastructure, CI/CD pipelines, and monitoring systems. You will\nensure high availability, automate operations, and establish SRE\nbest practices across the engineering organization.\n\nRESPONSIBILITIES\n• Design and manage Kubernetes clusters on AWS/GCP\n• Build and maintain CI/CD pipelines usin...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_devops_sre.txt",
+    "parsed_jd": {
+      "title": "DevOps / SRE Engineer",
+      "company": "CloudScale Infrastructure",
+      "min_experience_years": 4,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.137974",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "DEEPAK GUPTA",
+        "resume_path": "resumes/resume_deepak_gupta.txt",
+        "match_score": 79,
+        "score_breakdown": {
+          "semantic_similarity": 68.2,
+          "skill_match": 74.0,
+          "experience_match": 96,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "datadog",
+          "prometheus",
+          "git",
+          "kubernetes",
+          "gcp",
+          "grafana",
+          "aws",
+          "python",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Senior DevOps Engineer — PhonePe, Bangalore, Karnataka\nOct 2021 – Present\n• Architected Kubernetes platform hosting 100+ microservices on AWS EKS\n• Built zero-downtime deployment pipeline using ArgoCD and Helm\n• Developed Python-based infrastructure automation reducing provisioning time\n• Implemente..."
+        ],
+        "reasoning": "Moderate match for DevOps / SRE Engineer. DEEPAK GUPTA has 8 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+        "experience_years": 8,
+        "current_role": "Senior DevOps Engineer",
+        "location": "Delhi NCR"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "ANJALI CHOUDHARY",
+        "resume_path": "resumes/resume_anjali_choudhary.docx",
+        "match_score": 70,
+        "score_breakdown": {
+          "semantic_similarity": 65.0,
+          "skill_match": 68.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "datadog",
+          "prometheus",
+          "git",
+          "kubernetes",
+          "gcp",
+          "grafana",
+          "aws",
+          "python",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+        ],
+        "reasoning": "Moderate match for DevOps / SRE Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+        "experience_years": 10,
+        "current_role": "Principal Platform Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "LAKSHMI SUNDARAM",
+        "resume_path": "resumes/resume_lakshmi_sundaram.pdf",
+        "match_score": 68,
+        "score_breakdown": {
+          "semantic_similarity": 54.2,
+          "skill_match": 80.0,
+          "experience_match": 92,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "datadog",
+          "prometheus",
+          "git",
+          "kubernetes",
+          "gcp",
+          "grafana",
+          "aws",
+          "python",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Senior SRE — Atlassian India, Bangalore, Karnataka\nApr 2022 – Present\n Managed Kubernetes clusters serving 10M+ daily active users\n Built SLO monitoring platform using Prometheus and custom Go exporter\n Led chaos engineering program using Litmus and Chaos Monkey\n Reduced MTTR from 45 min to 12 m..."
+        ],
+        "reasoning": "Moderate match for DevOps / SRE Engineer. LAKSHMI SUNDARAM has 7 years of experience (meets 4+ year requirement). Key matched skills: datadog, prometheus, git, kubernetes, gcp. Gaps: 4+ years of devops/sre experience, understanding of ci/cd principles and tools.",
+        "experience_years": 7,
+        "current_role": "Senior SRE",
+        "location": "Chennai, Tamil Nadu"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "PRIYA NAIR",
+        "resume_path": "resumes/resume_priya_nair.txt",
+        "match_score": 67,
+        "score_breakdown": {
+          "semantic_similarity": 46.6,
+          "skill_match": 62.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "prometheus",
+          "git",
+          "kubernetes",
+          "gcp",
+          "grafana",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "proficiency with terraform or similar iac tools"
+        ],
+        "relevant_excerpts": [
+          "PRIYA NAIR\nEmail: priya.nair@email.com | Phone: +91 87654 32109\nLinkedIn: linkedin.com/in/priyanair\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nStaff Software Engineer with 8 years of experience in enterprise Java\ndevelopment, distributed systems, and container orchestration.\nProven track r..."
+        ],
+        "reasoning": "Moderate match for DevOps / SRE Engineer. PRIYA NAIR has 10 years of experience (meets 4+ year requirement). Key matched skills: prometheus, git, kubernetes, gcp, grafana. Gaps: 4+ years of devops/sre experience, proficiency with terraform or similar iac tools.",
+        "experience_years": 10,
+        "current_role": "Staff Software Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "SIDDHARTH JOSHI",
+        "resume_path": "resumes/resume_siddharth_joshi.txt",
+        "match_score": 64,
+        "score_breakdown": {
+          "semantic_similarity": 41.1,
+          "skill_match": 58.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "kubernetes",
+          "aws",
+          "python",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "experience with monitoring tools (prometheus, grafana, datadog)",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Principal Cloud Architect — Accenture India, Pune, Maharashtra\nJan 2021 – Present\n• Led cloud migration for banking client moving 200+ applications to AWS\n• Designed multi-region disaster recovery achieving RPO <15min, RTO <1hr\n• Established FinOps practice reducing cloud spend by $2M annually\n• Bui..."
+        ],
+        "reasoning": "Moderate match for DevOps / SRE Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, aws, python, go, terraform. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog), understanding of ci/cd principles and tools.",
+        "experience_years": 11,
+        "current_role": "Principal Cloud Architect",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "VIKRAM REDDY",
+        "resume_path": "resumes/resume_vikram_reddy.txt",
+        "match_score": 54,
+        "score_breakdown": {
+          "semantic_similarity": 33.8,
+          "skill_match": 62.0,
+          "experience_match": 84,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "git",
+          "kubernetes",
+          "gcp",
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "experience with monitoring tools (prometheus, grafana, datadog)"
+        ],
+        "relevant_excerpts": [
+          "VIKRAM REDDY\nEmail: vikram.reddy@email.com | Phone: +91 54321 09876\nLinkedIn: linkedin.com/in/vikramreddy | GitHub: github.com/vikramreddy\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nData Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Py..."
+        ],
+        "reasoning": "Partial match for DevOps / SRE Engineer. VIKRAM REDDY has 5 years of experience (meets 4+ year requirement). Key matched skills: git, kubernetes, gcp, aws, python. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog).",
+        "experience_years": 5,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "VIVEK SHANKAR",
+        "resume_path": "resumes/resume_vivek_shankar.txt",
+        "match_score": 53,
+        "score_breakdown": {
+          "semantic_similarity": 29.4,
+          "skill_match": 62.0,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "git",
+          "kubernetes",
+          "gcp",
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "experience with monitoring tools (prometheus, grafana, datadog)"
+        ],
+        "relevant_excerpts": [
+          "• Databricks Certified Data Engineer Professional\n• AWS Certified Big Data – Specialty"
+        ],
+        "reasoning": "Partial match for DevOps / SRE Engineer. VIVEK SHANKAR has 6 years of experience (meets 4+ year requirement). Key matched skills: git, kubernetes, gcp, aws, python. Gaps: 4+ years of devops/sre experience, experience with monitoring tools (prometheus, grafana, datadog).",
+        "experience_years": 6,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "ARUN KUMAR",
+        "resume_path": "resumes/resume_arun_kumar.txt",
+        "match_score": 52,
+        "score_breakdown": {
+          "semantic_similarity": 37.9,
+          "skill_match": 26.0,
+          "experience_match": 96,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "git",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "strong kubernetes expertise (deployment, scaling, troubleshooting)",
+          "proficiency with terraform or similar iac tools",
+          "experience with monitoring tools (prometheus, grafana, datadog)",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "ARUN KUMAR\nEmail: arun.kumar@email.com | Phone: +91 55667 78899\nLinkedIn: linkedin.com/in/arunkumar\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nCybersecurity Engineer with 6 years of experience in application\nsecurity, penetration testing, and cloud security. Skilled in\nPython scripting, SA..."
+        ],
+        "reasoning": "Partial match for DevOps / SRE Engineer. ARUN KUMAR has 8 years of experience (meets 4+ year requirement). Key matched skills: git, aws, python, go. Gaps: 4+ years of devops/sre experience, strong kubernetes expertise (deployment, scaling, troubleshooting), proficiency with terraform or similar iac tools.",
+        "experience_years": 8,
+        "current_role": "Senior Security Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "POOJA DESHMUKH",
+        "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+        "match_score": 50,
+        "score_breakdown": {
+          "semantic_similarity": 28.1,
+          "skill_match": 58.0,
+          "experience_match": 84,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "prometheus",
+          "git",
+          "kubernetes",
+          "gcp",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "proficiency with terraform or similar iac tools",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Languages: Go, Python, Rust, SQL, Protobuf\nFrameworks: Gin, Echo, gRPC-Go, NATS, Temporal\nInfrastructure: Kubernetes, Docker, Istio, Envoy, Consul\nDatabases: PostgreSQL, CockroachDB, Redis, etcd, ScyllaDB\nCloud: GCP (GKE, Cloud Run, Pub/Sub, Spanner), AWS\nTools: Git, Buf, Wire, GoReleaser, Prometheu..."
+        ],
+        "reasoning": "Partial match for DevOps / SRE Engineer. POOJA DESHMUKH has 5 years of experience (meets 4+ year requirement). Key matched skills: prometheus, git, kubernetes, gcp, aws. Gaps: 4+ years of devops/sre experience, proficiency with terraform or similar iac tools, understanding of ci/cd principles and tools.",
+        "experience_years": 5,
+        "current_role": "Backend Engineer",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "ARJUN SHARMA",
+        "resume_path": "resumes/resume_arjun_sharma.txt",
+        "match_score": 49,
+        "score_breakdown": {
+          "semantic_similarity": 43.3,
+          "skill_match": 30.0,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "git",
+          "python",
+          "go",
+          "terraform",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of devops/sre experience",
+          "strong kubernetes expertise (deployment, scaling, troubleshooting)",
+          "experience with monitoring tools (prometheus, grafana, datadog)",
+          "understanding of ci/cd principles and tools"
+        ],
+        "relevant_excerpts": [
+          "Senior Software Engineer — Flipkart, Bangalore, Karnataka\nJune 2021 – Present\n• Led migration of monolithic Django application to microservices architecture\n• Designed and implemented RESTful APIs serving 10M+ requests/day\n• Reduced AWS infrastructure costs by 30% through resource optimization\n• Men..."
+        ],
+        "reasoning": "Partial match for DevOps / SRE Engineer. ARJUN SHARMA has 6 years of experience (meets 4+ year requirement). Key matched skills: git, python, go, terraform, aws. Gaps: 4+ years of devops/sre experience, strong kubernetes expertise (deployment, scaling, troubleshooting), experience with monitoring tools (prometheus, grafana, datadog).",
+        "experience_years": 6,
+        "current_role": "Senior Software Engineer",
+        "location": "Bangalore, Karnataka"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 68,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  },
+  {
+    "job_description": "JOB TITLE: Full-Stack Developer\nCOMPANY: ShopEasy Commerce\nLOCATION: Pune, Maharashtra (On-site)\nEXPERIENCE: 4+ years\n\nABOUT THE ROLE\nWe are seeking a Full-Stack Developer to build and enhance our\ne-commerce platform. You will work across the entire stack from\nReact frontends to Node.js backends, delivering features that\nserve millions of users.\n\nRESPONSIBILITIES\n• Build responsive, performant frontend interfaces using React/Next.js\n• Develop backend APIs using Node.js and Express/NestJS\n• Desig...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_fullstack_developer.txt",
+    "parsed_jd": {
+      "title": "Full-Stack Developer",
+      "company": "ShopEasy Commerce",
+      "min_experience_years": 4,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.210119",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "SNEHA IYER",
+        "resume_path": "resumes/resume_sneha_iyer.docx",
+        "match_score": 81,
+        "score_breakdown": {
+          "semantic_similarity": 62.4,
+          "skill_match": 88.0,
+          "experience_match": 96,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "graphql",
+          "node.js",
+          "react",
+          "postgresql",
+          "rest",
+          "aws",
+          "nestjs",
+          "next.js",
+          "typescript",
+          "docker",
+          "mongodb",
+          "git",
+          "go",
+          "express"
+        ],
+        "missing_skills": [],
+        "relevant_excerpts": [
+          "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+        ],
+        "reasoning": "Strong match for Full-Stack Developer. SNEHA IYER has 8 years of experience (meets 4+ year requirement). Key matched skills: graphql, node.js, react, postgresql, rest.",
+        "experience_years": 8,
+        "current_role": "Senior Full",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "VARUN TIWARI",
+        "resume_path": "resumes/resume_varun_tiwari.docx",
+        "match_score": 78,
+        "score_breakdown": {
+          "semantic_similarity": 67.4,
+          "skill_match": 80.0,
+          "experience_match": 80,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "graphql",
+          "node.js",
+          "react",
+          "postgresql",
+          "aws",
+          "nestjs",
+          "next.js",
+          "typescript",
+          "docker",
+          "mongodb",
+          "git",
+          "go",
+          "express"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "understanding of web performance optimization"
+        ],
+        "relevant_excerpts": [
+          "VARUN TIWARI\nEmail: varun.tiwari@email.com | Phone: +91 44332 21100\nLinkedIn: linkedin.com/in/varuntiwari | GitHub: github.com/varuntiwari\nLocation: Indore, Madhya Pradesh\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 3 years of experience building web\napplications using React, Node.js, and TypeSc..."
+        ],
+        "reasoning": "Moderate match for Full-Stack Developer. VARUN TIWARI has 4 years of experience (meets 4+ year requirement). Key matched skills: graphql, node.js, react, postgresql, aws. Gaps: 4+ years of full-stack web development experience, understanding of web performance optimization.",
+        "experience_years": 4,
+        "current_role": "Full",
+        "location": "Indore, Madhya Pradesh"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "KAVITA SINGH",
+        "resume_path": "resumes/resume_kavita_singh.txt",
+        "match_score": 67,
+        "score_breakdown": {
+          "semantic_similarity": 52.8,
+          "skill_match": 78.0,
+          "experience_match": 92,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "graphql",
+          "postgresql",
+          "typescript",
+          "docker",
+          "git",
+          "react",
+          "aws"
+        ],
+        "missing_skills": [
+          "strong node.js backend development (express or nestjs)"
+        ],
+        "relevant_excerpts": [
+          "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+        ],
+        "reasoning": "Moderate match for Full-Stack Developer. KAVITA SINGH has 7 years of experience (meets 4+ year requirement). Key matched skills: graphql, postgresql, typescript, docker, git. Gaps: strong node.js backend development (express or nestjs).",
+        "experience_years": 7,
+        "current_role": "Senior Developer",
+        "location": "Jaipur, Rajasthan"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "PRIYA NAIR",
+        "resume_path": "resumes/resume_priya_nair.txt",
+        "match_score": 64,
+        "score_breakdown": {
+          "semantic_similarity": 44.3,
+          "skill_match": 54.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "kubernetes",
+          "postgresql",
+          "docker",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "expert-level react/next.js with typescript",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization"
+        ],
+        "relevant_excerpts": [
+          "Staff Software Engineer — Google India, Hyderabad, Telangana\nMar 2020 – Present\n• Architected event-driven microservices platform handling 50K events/sec\n• Led Kubernetes migration for 40+ services with zero downtime\n• Designed circuit-breaker patterns reducing cascading failures by 90%\n• Establishe..."
+        ],
+        "reasoning": "Moderate match for Full-Stack Developer. PRIYA NAIR has 10 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, postgresql, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+        "experience_years": 10,
+        "current_role": "Staff Software Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "HARISH MENON",
+        "resume_path": "resumes/resume_harish_menon.pdf",
+        "match_score": 52,
+        "score_breakdown": {
+          "semantic_similarity": 44.0,
+          "skill_match": 38.0,
+          "experience_match": 96,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "postgresql",
+          "rest",
+          "docker",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "expert-level react/next.js with typescript",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. HARISH MENON has 8 years of experience (meets 4+ year requirement). Key matched skills: postgresql, rest, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+        "experience_years": 8,
+        "current_role": "Senior Python Developer",
+        "location": "Kochi, Kerala"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "RAJESH NAMBIAR",
+        "resume_path": "resumes/resume_rajesh_nambiar.txt",
+        "match_score": 48,
+        "score_breakdown": {
+          "semantic_similarity": 37.1,
+          "skill_match": 42.0,
+          "experience_match": 80,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "postgresql",
+          "typescript",
+          "docker",
+          "mongodb",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "Backend Developer with 3 years of experience building high-performance\nAPIs using Python, FastAPI, and PostgreSQL. Focused on async programming,\ndatabase optimization, and clean architecture."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. RAJESH NAMBIAR has 4 years of experience (meets 4+ year requirement). Key matched skills: postgresql, typescript, docker, mongodb, git. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), understanding of web performance optimization.",
+        "experience_years": 4,
+        "current_role": "Backend Developer",
+        "location": "Thiruvananthapuram, Kerala"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "ANJALI CHOUDHARY",
+        "resume_path": "resumes/resume_anjali_choudhary.docx",
+        "match_score": 47,
+        "score_breakdown": {
+          "semantic_similarity": 32.9,
+          "skill_match": 32.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "typescript",
+          "docker",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "strong node.js backend development (express or nestjs)",
+          "experience with postgresql and mongodb",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. ANJALI CHOUDHARY has 10 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, typescript, docker, git, go. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), experience with postgresql and mongodb.",
+        "experience_years": 10,
+        "current_role": "Principal Platform Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "ARJUN SHARMA",
+        "resume_path": "resumes/resume_arjun_sharma.txt",
+        "match_score": 46,
+        "score_breakdown": {
+          "semantic_similarity": 36.4,
+          "skill_match": 32.0,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "postgresql",
+          "docker",
+          "mongodb",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "expert-level react/next.js with typescript",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. ARJUN SHARMA has 6 years of experience (meets 4+ year requirement). Key matched skills: postgresql, docker, mongodb, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+        "experience_years": 6,
+        "current_role": "Senior Software Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "POOJA DESHMUKH",
+        "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+        "match_score": 42,
+        "score_breakdown": {
+          "semantic_similarity": 28.2,
+          "skill_match": 32.0,
+          "experience_match": 84,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "postgresql",
+          "docker",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "expert-level react/next.js with typescript",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "POOJA DESHMUKH\nEmail: pooja.deshmukh@email.com | Phone: +91 99887 76655\nLinkedIn: linkedin.com/in/poojadeshmukh | GitHub: github.com/poojadeshmukh\nLocation: Pune, Maharashtra\nPROFESSIONAL SUMMARY\nBackend Engineer with 4 years of experience building high-performance\ndistributed systems using Go. Pass..."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. POOJA DESHMUKH has 5 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, postgresql, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+        "experience_years": 5,
+        "current_role": "Backend Engineer",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "ANKIT PATEL",
+        "resume_path": "resumes/resume_ankit_patel.docx",
+        "match_score": 24,
+        "score_breakdown": {
+          "semantic_similarity": 51.7,
+          "skill_match": 42.0,
+          "experience_match": 40,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "postgresql",
+          "rest",
+          "typescript",
+          "docker",
+          "mongodb",
+          "git",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "4+ years of full-stack web development experience",
+          "strong node.js backend development (express or nestjs)",
+          "understanding of web performance optimization",
+          "experience with restful apis and/or graphql"
+        ],
+        "relevant_excerpts": [
+          "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+        ],
+        "reasoning": "Partial match for Full-Stack Developer. ANKIT PATEL has 2 years of experience (4+ required). Key matched skills: postgresql, rest, typescript, docker, mongodb. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), understanding of web performance optimization.",
+        "experience_years": 2,
+        "current_role": "Backend Developer",
+        "location": "Ahmedabad, Gujarat"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 70,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  },
+  {
+    "job_description": "JOB TITLE: Machine Learning Engineer\nCOMPANY: DataMinds AI\nLOCATION: Mumbai, Maharashtra (Remote-Friendly)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nJoin our AI team to build and deploy production machine learning\nsystems. You will work on NLP, recommendation systems, and MLOps\ninfrastructure, taking models from research to production at scale.\n\nRESPONSIBILITIES\n• Develop and deploy ML models for NLP and recommendation use cases\n• Build end-to-end ML pipelines from data preprocessing to model serving...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_ml_engineer.txt",
+    "parsed_jd": {
+      "title": "Machine Learning Engineer",
+      "company": "DataMinds AI",
+      "min_experience_years": 3,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.291124",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "RAHUL VERMA",
+        "resume_path": "resumes/resume_rahul_verma.pdf",
+        "match_score": 72,
+        "score_breakdown": {
+          "semantic_similarity": 66.4,
+          "skill_match": 56.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "kubeflow",
+          "transformer",
+          "ai",
+          "tensorflow",
+          "mlflow",
+          "docker",
+          "pytorch",
+          "aws",
+          "python",
+          "sagemaker"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience deploying ml models as rest apis"
+        ],
+        "relevant_excerpts": [
+          "Machine Learning Engineer with 3 years of experience building and\ndeploying production ML systems. Strong foundation in Python,\ndeep learning frameworks, and MLOps best practices."
+        ],
+        "reasoning": "Moderate match for Machine Learning Engineer. RAHUL VERMA has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, kubeflow, transformer, ai, tensorflow. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis.",
+        "experience_years": 5,
+        "current_role": "Machine Learning Engineer",
+        "location": "Mumbai, Maharashtra"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "FATIMA SHEIKH",
+        "resume_path": "resumes/resume_fatima_sheikh.txt",
+        "match_score": 67,
+        "score_breakdown": {
+          "semantic_similarity": 61.4,
+          "skill_match": 46.0,
+          "experience_match": 92,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "kubeflow",
+          "transformer",
+          "bert",
+          "ai",
+          "gcp",
+          "nlp",
+          "mlflow",
+          "docker",
+          "pytorch",
+          "aws",
+          "python",
+          "sagemaker"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience deploying ml models as rest apis",
+          "solid understanding of data structures and algorithms"
+        ],
+        "relevant_excerpts": [
+          "ML Engineer with 5 years of experience building production machine\nlearning systems using Python, PyTorch, and AWS. Specializes in NLP,\nrecommendation systems, and ML infrastructure."
+        ],
+        "reasoning": "Moderate match for Machine Learning Engineer. FATIMA SHEIKH has 6 years of experience (meets 3+ year requirement). Key matched skills: ml, kubeflow, transformer, bert, ai. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis, solid understanding of data structures and algorithms.",
+        "experience_years": 6,
+        "current_role": "Senior ML Engineer",
+        "location": "Mumbai, Maharashtra"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "AMIT SAXENA",
+        "resume_path": "resumes/resume_amit_saxena.docx",
+        "match_score": 65,
+        "score_breakdown": {
+          "semantic_similarity": 41.1,
+          "skill_match": 66.0,
+          "experience_match": 92,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "transformer",
+          "ai",
+          "bert",
+          "gcp",
+          "nlp",
+          "mlflow",
+          "docker",
+          "pytorch",
+          "aws",
+          "python",
+          "sagemaker"
+        ],
+        "missing_skills": [
+          "experience deploying ml models as rest apis"
+        ],
+        "relevant_excerpts": [
+          "NLP Research Scientist with 5 years of experience in natural language\nprocessing, large language models, and conversational AI. Published\nresearcher with expertise in Python, PyTorch, and transformer architectures."
+        ],
+        "reasoning": "Moderate match for Machine Learning Engineer. AMIT SAXENA has 6 years of experience (meets 3+ year requirement). Key matched skills: ml, transformer, ai, bert, gcp. Gaps: experience deploying ml models as rest apis.",
+        "experience_years": 6,
+        "current_role": "Senior NLP Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "SWATI PATIL",
+        "resume_path": "resumes/resume_swati_patil.txt",
+        "match_score": 62,
+        "score_breakdown": {
+          "semantic_similarity": 50.8,
+          "skill_match": 46.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "ai",
+          "gcp",
+          "tensorflow",
+          "mlflow",
+          "pytorch",
+          "aws",
+          "python",
+          "sagemaker"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "experience deploying ml models as rest apis"
+        ],
+        "relevant_excerpts": [
+          "Data Scientist with 4 years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled in Python,\nscikit-learn, and building end-to-end ML pipelines."
+        ],
+        "reasoning": "Moderate match for Machine Learning Engineer. SWATI PATIL has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, tensorflow, mlflow. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), experience deploying ml models as rest apis.",
+        "experience_years": 5,
+        "current_role": "Senior Data Scientist",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "DEEPAK GUPTA",
+        "resume_path": "resumes/resume_deepak_gupta.txt",
+        "match_score": 57,
+        "score_breakdown": {
+          "semantic_similarity": 45.5,
+          "skill_match": 30.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "ai",
+          "gcp",
+          "docker",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+          "experience deploying ml models as rest apis"
+        ],
+        "relevant_excerpts": [
+          "DevOps Engineer with 6 years of experience in CI/CD, infrastructure\nautomation, and cloud architecture. Expert in Python scripting,\nDocker containerization, and Infrastructure as Code."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. DEEPAK GUPTA has 8 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+        "experience_years": 8,
+        "current_role": "Senior DevOps Engineer",
+        "location": "Delhi NCR"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "PALLAVI HEGDE",
+        "resume_path": "resumes/resume_pallavi_hegde.pdf",
+        "match_score": 56,
+        "score_breakdown": {
+          "semantic_similarity": 38.3,
+          "skill_match": 40.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "transformer",
+          "ai",
+          "gcp",
+          "tensorflow",
+          "mlflow",
+          "docker",
+          "pytorch",
+          "aws",
+          "python",
+          "sagemaker"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience deploying ml models as rest apis",
+          "solid understanding of data structures and algorithms"
+        ],
+        "relevant_excerpts": [
+          "Computer Vision Engineer with 4 years of experience building\nproduction vision systems using deep learning. Expert in Python,\nPyTorch, and deploying models on edge devices."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. PALLAVI HEGDE has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, transformer, ai, gcp, tensorflow. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis, solid understanding of data structures and algorithms.",
+        "experience_years": 5,
+        "current_role": "Senior CV Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "SNEHA IYER",
+        "resume_path": "resumes/resume_sneha_iyer.docx",
+        "match_score": 50,
+        "score_breakdown": {
+          "semantic_similarity": 26.6,
+          "skill_match": 30.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "ai",
+          "rest",
+          "docker",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+          "solid understanding of data structures and algorithms"
+        ],
+        "relevant_excerpts": [
+          "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. SNEHA IYER has 8 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, rest, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+        "experience_years": 8,
+        "current_role": "Senior Full",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "VIKRAM REDDY",
+        "resume_path": "resumes/resume_vikram_reddy.txt",
+        "match_score": 50,
+        "score_breakdown": {
+          "semantic_similarity": 42.7,
+          "skill_match": 36.0,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "ai",
+          "gcp",
+          "docker",
+          "aws",
+          "python"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+          "experience deploying ml models as rest apis"
+        ],
+        "relevant_excerpts": [
+          "Data Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Python, Apache Spark, and\nmodern data stack technologies."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. VIKRAM REDDY has 5 years of experience (meets 3+ year requirement). Key matched skills: ai, gcp, docker, aws, python. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+        "experience_years": 5,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "SIDDHARTH JOSHI",
+        "resume_path": "resumes/resume_siddharth_joshi.txt",
+        "match_score": 46,
+        "score_breakdown": {
+          "semantic_similarity": 25.4,
+          "skill_match": 20.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "ai",
+          "gcp",
+          "docker",
+          "aws",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+          "experience deploying ml models as rest apis",
+          "solid understanding of data structures and algorithms"
+        ],
+        "relevant_excerpts": [
+          "SIDDHARTH JOSHI\nEmail: siddharth.joshi@email.com | Phone: +91 77889 90011\nLinkedIn: linkedin.com/in/siddharthjoshi\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nCloud Solutions Architect with 10 years of experience designing\nenterprise-grade cloud infrastructure on AWS and GCP. Led cloud\ntransfo..."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+        "experience_years": 11,
+        "current_role": "Principal Cloud Architect",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "MANISH DUBEY",
+        "resume_path": "resumes/resume_manish_dubey.txt",
+        "match_score": 12,
+        "score_breakdown": {
+          "semantic_similarity": 38.2,
+          "skill_match": 30.0,
+          "experience_match": 20,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ml",
+          "ai",
+          "rest",
+          "python",
+          "go"
+        ],
+        "missing_skills": [
+          "3+ years of experience in machine learning engineering",
+          "experience with nlp (transformers, bert, sentence embeddings)",
+          "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+          "experience with docker and cloud platforms (aws or gcp)"
+        ],
+        "relevant_excerpts": [
+          "MANISH DUBEY\nEmail: manish.dubey@email.com | Phone: +91 99887 77665\nLinkedIn: linkedin.com/in/manishdubey | GitHub: github.com/manishdubey\nLocation: Lucknow, Uttar Pradesh\n\nPROFESSIONAL SUMMARY\nRecent Computer Science graduate with 1 year of internship experience\nin web development. Eager to learn a..."
+        ],
+        "reasoning": "Partial match for Machine Learning Engineer. MANISH DUBEY has 0 years of experience (3+ required). Key matched skills: ml, ai, rest, python, go. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+        "experience_years": 0,
+        "current_role": "Software Development Intern",
+        "location": "Lucknow, Uttar Pradesh"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 79,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  },
+  {
+    "job_description": "JOB TITLE: Mobile Developer (Flutter / React Native)\nCOMPANY: UrbanGo Mobility\nLOCATION: Bangalore, Karnataka (On-site)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nWe are looking for a Mobile Developer to build cross-platform\nmobile applications using Flutter or React Native. You will work\non our consumer-facing mobility app used by millions of commuters.\n\nRESPONSIBILITIES\n• Build cross-platform mobile applications using Flutter or React Native\n• Implement complex UI designs with smooth animations\n• In...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_mobile_developer.txt",
+    "parsed_jd": {
+      "title": "Mobile Developer (Flutter / React Native)",
+      "company": "UrbanGo Mobility",
+      "min_experience_years": 3,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.370625",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "KARAN MALHOTRA",
+        "resume_path": "resumes/resume_karan_malhotra.txt",
+        "match_score": 75,
+        "score_breakdown": {
+          "semantic_similarity": 62.0,
+          "skill_match": 74.0,
+          "experience_match": 84,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "git",
+          "dart",
+          "rest",
+          "java",
+          "flutter",
+          "ci/cd",
+          "kotlin",
+          "javascript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)"
+        ],
+        "relevant_excerpts": [
+          "KARAN MALHOTRA\nEmail: karan.malhotra@email.com | Phone: +91 11223 34455\nLinkedIn: linkedin.com/in/karanmalhotra | GitHub: github.com/karanmalhotra\nLocation: Chandigarh, Punjab\n\nPROFESSIONAL SUMMARY\nCross-Platform Mobile Developer with 3 years of experience building\nproduction Flutter applications. S..."
+        ],
+        "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). KARAN MALHOTRA has 4 years of experience (meets 3+ year requirement). Key matched skills: git, dart, rest, java, flutter. Gaps: 3+ years of mobile development experience, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+        "experience_years": 4,
+        "current_role": "Senior Flutter Developer",
+        "location": "Chandigarh, Punjab"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "ROHAN MEHTA",
+        "resume_path": "resumes/resume_rohan_mehta.pdf",
+        "match_score": 74,
+        "score_breakdown": {
+          "semantic_similarity": 64.7,
+          "skill_match": 68.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "dart",
+          "react native",
+          "rest",
+          "java",
+          "flutter",
+          "git",
+          "react",
+          "kotlin"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "experience with state management (bloc, provider, redux)"
+        ],
+        "relevant_excerpts": [
+          "ROHAN MEHTA\nEmail: rohan.mehta@email.com | Phone: +91 99001 12233\nLinkedIn: linkedin.com/in/rohanmehta | GitHub: github.com/rohanmehta\nLocation: Bangalore, Karnataka\nPROFESSIONAL SUMMARY\nAndroid Developer with 4 years of experience building native mobile\napplications using Kotlin and Jetpack Compose..."
+        ],
+        "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). ROHAN MEHTA has 5 years of experience (meets 3+ year requirement). Key matched skills: dart, react native, rest, java, flutter. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux).",
+        "experience_years": 5,
+        "current_role": "Senior Android Developer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "VARUN TIWARI",
+        "resume_path": "resumes/resume_varun_tiwari.docx",
+        "match_score": 65,
+        "score_breakdown": {
+          "semantic_similarity": 46.3,
+          "skill_match": 62.0,
+          "experience_match": 84,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "react",
+          "java",
+          "typescript",
+          "git",
+          "go",
+          "javascript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)"
+        ],
+        "relevant_excerpts": [
+          "Full-Stack Developer — Lenskart, Bangalore, Karnataka\nJan 2023 – Present\n• Built e-commerce virtual try-on feature using React and WebGL\n• Developed Node.js microservices for order management system\n• Implemented server-side rendering with Next.js improving page speed by 35%\n• Built admin dashboard ..."
+        ],
+        "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). VARUN TIWARI has 4 years of experience (meets 3+ year requirement). Key matched skills: react, java, typescript, git, go. Gaps: 3+ years of mobile development experience, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+        "experience_years": 4,
+        "current_role": "Full",
+        "location": "Indore, Madhya Pradesh"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "RITU SHARMA",
+        "resume_path": "resumes/resume_ritu_sharma.docx",
+        "match_score": 62,
+        "score_breakdown": {
+          "semantic_similarity": 26.3,
+          "skill_match": 78.0,
+          "experience_match": 88,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "git",
+          "rest",
+          "java",
+          "ci/cd",
+          "javascript"
+        ],
+        "missing_skills": [
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "RITU SHARMA\nEmail: ritu.sharma@email.com | Phone: +91 99001 22334\nLinkedIn: linkedin.com/in/ritusharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nTechnical Writer with 4 years of experience creating developer\ndocumentation, API references, and technical guides. Proficient\nin docs-as-code w..."
+        ],
+        "reasoning": "Moderate match for Mobile Developer (Flutter / React Native). RITU SHARMA has 5 years of experience (meets 3+ year requirement). Key matched skills: git, rest, java, ci/cd, javascript. Gaps: published apps on google play store and/or apple app store.",
+        "experience_years": 5,
+        "current_role": "Senior Technical Writer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "NISHA BANERJEE",
+        "resume_path": "resumes/resume_nisha_banerjee.txt",
+        "match_score": 56,
+        "score_breakdown": {
+          "semantic_similarity": 39.7,
+          "skill_match": 42.0,
+          "experience_match": 84,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "git",
+          "rest",
+          "swift"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "strong flutter (dart) or react native (javascript/typescript) skills",
+          "experience with state management (bloc, provider, redux)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "NISHA BANERJEE\nEmail: nisha.banerjee@email.com | Phone: +91 88990 11223\nLinkedIn: linkedin.com/in/nishabanerjee\nLocation: Kolkata, West Bengal\n\nPROFESSIONAL SUMMARY\niOS Developer with 3 years of experience building polished, performant\niOS applications using Swift and SwiftUI. Passionate about great..."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). NISHA BANERJEE has 4 years of experience (meets 3+ year requirement). Key matched skills: git, rest, swift. Gaps: 3+ years of mobile development experience, strong flutter (dart) or react native (javascript/typescript) skills, experience with state management (bloc, provider, redux).",
+        "experience_years": 4,
+        "current_role": "iOS Developer",
+        "location": "Kolkata, West Bengal"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "SNEHA IYER",
+        "resume_path": "resumes/resume_sneha_iyer.docx",
+        "match_score": 55,
+        "score_breakdown": {
+          "semantic_similarity": 41.1,
+          "skill_match": 30.0,
+          "experience_match": 100,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "react",
+          "rest",
+          "java",
+          "typescript",
+          "git",
+          "go",
+          "javascript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "familiarity with restful apis and firebase",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "Senior Full-Stack Developer — Razorpay, Bangalore, Karnataka\nApr 2021 – Present\n• Led development of SaaS platform used by 200K+ businesses\n• Built server-side rendered app using Next.js improving SEO scores by 45%\n• Implemented real-time collaboration features using WebSockets\n• Reduced page load t..."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). SNEHA IYER has 8 years of experience (meets 3+ year requirement). Key matched skills: react, rest, java, typescript, git. Gaps: 3+ years of mobile development experience, familiarity with restful apis and firebase, understanding of mobile app architecture patterns (mvvm, clean architecture).",
+        "experience_years": 8,
+        "current_role": "Senior Full",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "HARISH MENON",
+        "resume_path": "resumes/resume_harish_menon.pdf",
+        "match_score": 41,
+        "score_breakdown": {
+          "semantic_similarity": 22.0,
+          "skill_match": 26.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "rest",
+          "java",
+          "git",
+          "go",
+          "javascript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "experience with state management (bloc, provider, redux)",
+          "familiarity with restful apis and firebase",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). HARISH MENON has 8 years of experience (meets 3+ year requirement). Key matched skills: rest, java, git, go, javascript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+        "experience_years": 8,
+        "current_role": "Senior Python Developer",
+        "location": "Kochi, Kerala"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "ANKIT PATEL",
+        "resume_path": "resumes/resume_ankit_patel.docx",
+        "match_score": 41,
+        "score_breakdown": {
+          "semantic_similarity": 27.1,
+          "skill_match": 20.0,
+          "experience_match": 60,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "git",
+          "typescript",
+          "go",
+          "rest"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "experience with state management (bloc, provider, redux)",
+          "familiarity with restful apis and firebase",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). ANKIT PATEL has 2 years of experience (3+ required). Key matched skills: git, typescript, go, rest. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+        "experience_years": 2,
+        "current_role": "Backend Developer",
+        "location": "Ahmedabad, Gujarat"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "KAVITA SINGH",
+        "resume_path": "resumes/resume_kavita_singh.txt",
+        "match_score": 40,
+        "score_breakdown": {
+          "semantic_similarity": 27.0,
+          "skill_match": 20.0,
+          "experience_match": 96,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "java",
+          "typescript",
+          "git",
+          "react",
+          "javascript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "experience with state management (bloc, provider, redux)",
+          "familiarity with restful apis and firebase",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). KAVITA SINGH has 7 years of experience (meets 3+ year requirement). Key matched skills: java, typescript, git, react, javascript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+        "experience_years": 7,
+        "current_role": "Senior Developer",
+        "location": "Jaipur, Rajasthan"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "ANJALI CHOUDHARY",
+        "resume_path": "resumes/resume_anjali_choudhary.docx",
+        "match_score": 40,
+        "score_breakdown": {
+          "semantic_similarity": 26.1,
+          "skill_match": 20.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "ci/cd",
+          "git",
+          "go",
+          "typescript"
+        ],
+        "missing_skills": [
+          "3+ years of mobile development experience",
+          "experience with state management (bloc, provider, redux)",
+          "familiarity with restful apis and firebase",
+          "understanding of mobile app architecture patterns (mvvm, clean architecture)",
+          "published apps on google play store and/or apple app store"
+        ],
+        "relevant_excerpts": [
+          "ANJALI CHOUDHARY\nEmail: anjali.choudhary@email.com | Phone: +91 88665 54432\nLinkedIn: linkedin.com/in/anjalichoudhary\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nPlatform Engineer with 8 years of experience building internal\ndeveloper platforms, CI/CD systems, and infrastructure automation...."
+        ],
+        "reasoning": "Partial match for Mobile Developer (Flutter / React Native). ANJALI CHOUDHARY has 10 years of experience (meets 3+ year requirement). Key matched skills: ci/cd, git, go, typescript. Gaps: 3+ years of mobile development experience, experience with state management (bloc, provider, redux), familiarity with restful apis and firebase.",
+        "experience_years": 10,
+        "current_role": "Principal Platform Engineer",
+        "location": "Bangalore, Karnataka"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 76,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  },
+  {
+    "job_description": "JOB TITLE: Senior Python Backend Engineer\nCOMPANY: FinSecure Technologies\nLOCATION: Bangalore, Karnataka (Hybrid)\nEXPERIENCE: 5+ years\n\nABOUT THE ROLE\nWe are looking for a Senior Python Backend Engineer to join our\npayments platform team. You will design and build high-throughput\nAPIs, optimize database performance, and mentor junior engineers.\nOur stack is Python-heavy with Django and FastAPI powering critical\nfinancial services.\n\nRESPONSIBILITIES\n• Design and implement scalable RESTful APIs us...",
+    "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_senior_python_backend.txt",
+    "parsed_jd": {
+      "title": "Senior Python Backend Engineer",
+      "company": "FinSecure Technologies",
+      "min_experience_years": 5,
+      "required_skills_count": 7
+    },
+    "timestamp": "2026-06-10T20:58:58.454585",
+    "top_matches": [
+      {
+        "rank": 1,
+        "candidate_name": "HARISH MENON",
+        "resume_path": "resumes/resume_harish_menon.pdf",
+        "match_score": 73,
+        "score_breakdown": {
+          "semantic_similarity": 66.9,
+          "skill_match": 78.0,
+          "experience_match": 92,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "celery",
+          "ai",
+          "postgresql",
+          "fastapi",
+          "django",
+          "python",
+          "docker",
+          "rest",
+          "redis",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+        ],
+        "reasoning": "Moderate match for Senior Python Backend Engineer. HARISH MENON has 8 years of experience (meets 5+ year requirement). Key matched skills: celery, ai, postgresql, fastapi, django. Gaps: strong problem-solving and communication skills.",
+        "experience_years": 8,
+        "current_role": "Senior Python Developer",
+        "location": "Kochi, Kerala"
+      },
+      {
+        "rank": 2,
+        "candidate_name": "ARJUN SHARMA",
+        "resume_path": "resumes/resume_arjun_sharma.txt",
+        "match_score": 73,
+        "score_breakdown": {
+          "semantic_similarity": 68.9,
+          "skill_match": 78.0,
+          "experience_match": 84,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "celery",
+          "ai",
+          "postgresql",
+          "fastapi",
+          "django",
+          "python",
+          "docker",
+          "aws",
+          "redis",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+        ],
+        "reasoning": "Moderate match for Senior Python Backend Engineer. ARJUN SHARMA has 6 years of experience (meets 5+ year requirement). Key matched skills: celery, ai, postgresql, fastapi, django. Gaps: strong problem-solving and communication skills.",
+        "experience_years": 6,
+        "current_role": "Senior Software Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 3,
+        "candidate_name": "RAJESH NAMBIAR",
+        "resume_path": "resumes/resume_rajesh_nambiar.txt",
+        "match_score": 63,
+        "score_breakdown": {
+          "semantic_similarity": 52.9,
+          "skill_match": 78.0,
+          "experience_match": 60,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "celery",
+          "ai",
+          "postgresql",
+          "rabbitmq",
+          "fastapi",
+          "python",
+          "docker",
+          "aws",
+          "redis",
+          "go"
+        ],
+        "missing_skills": [
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "Backend Developer with 3 years of experience building high-performance\nAPIs using Python, FastAPI, and PostgreSQL. Focused on async programming,\ndatabase optimization, and clean architecture."
+        ],
+        "reasoning": "Moderate match for Senior Python Backend Engineer. RAJESH NAMBIAR has 4 years of experience (5+ required). Key matched skills: celery, ai, postgresql, rabbitmq, fastapi. Gaps: strong problem-solving and communication skills.",
+        "experience_years": 4,
+        "current_role": "Backend Developer",
+        "location": "Thiruvananthapuram, Kerala"
+      },
+      {
+        "rank": 4,
+        "candidate_name": "VIKRAM REDDY",
+        "resume_path": "resumes/resume_vikram_reddy.txt",
+        "match_score": 62,
+        "score_breakdown": {
+          "semantic_similarity": 43.1,
+          "skill_match": 80.0,
+          "experience_match": 80,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "ai",
+          "postgresql",
+          "kafka",
+          "docker",
+          "aws",
+          "python",
+          "terraform"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "solid understanding of restful api design principles"
+        ],
+        "relevant_excerpts": [
+          "Data Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Python, Apache Spark, and\nmodern data stack technologies."
+        ],
+        "reasoning": "Moderate match for Senior Python Backend Engineer. VIKRAM REDDY has 5 years of experience (meets 5+ year requirement). Key matched skills: kubernetes, ai, postgresql, kafka, docker. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles.",
+        "experience_years": 5,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 5,
+        "candidate_name": "VIVEK SHANKAR",
+        "resume_path": "resumes/resume_vivek_shankar.txt",
+        "match_score": 60,
+        "score_breakdown": {
+          "semantic_similarity": 34.9,
+          "skill_match": 80.0,
+          "experience_match": 84,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "ai",
+          "postgresql",
+          "python",
+          "kafka",
+          "docker",
+          "rest",
+          "redis",
+          "terraform",
+          "aws"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "solid understanding of restful api design principles"
+        ],
+        "relevant_excerpts": [
+          "VIVEK SHANKAR\nEmail: vivek.shankar@email.com | Phone: +91 77554 43321\nLinkedIn: linkedin.com/in/vivekshankar | GitHub: github.com/vivekshankar\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nBig Data Engineer with 5 years of experience building large-scale\ndata processing systems using Scala, A..."
+        ],
+        "reasoning": "Moderate match for Senior Python Backend Engineer. VIVEK SHANKAR has 6 years of experience (meets 5+ year requirement). Key matched skills: kubernetes, ai, postgresql, python, kafka. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles.",
+        "experience_years": 6,
+        "current_role": "Senior Data Engineer",
+        "location": "Hyderabad, Telangana"
+      },
+      {
+        "rank": 6,
+        "candidate_name": "ANJALI CHOUDHARY",
+        "resume_path": "resumes/resume_anjali_choudhary.docx",
+        "match_score": 58,
+        "score_breakdown": {
+          "semantic_similarity": 49.8,
+          "skill_match": 48.0,
+          "experience_match": 100,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "ai",
+          "docker",
+          "aws",
+          "python",
+          "go",
+          "terraform"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "proficiency with postgresql and redis",
+          "solid understanding of restful api design principles",
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "ANJALI CHOUDHARY\nEmail: anjali.choudhary@email.com | Phone: +91 88665 54432\nLinkedIn: linkedin.com/in/anjalichoudhary\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nPlatform Engineer with 8 years of experience building internal\ndeveloper platforms, CI/CD systems, and infrastructure automation...."
+        ],
+        "reasoning": "Partial match for Senior Python Backend Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 5+ year requirement). Key matched skills: kubernetes, ai, docker, aws, python. Gaps: strong experience with django or fastapi frameworks, proficiency with postgresql and redis, solid understanding of restful api design principles.",
+        "experience_years": 10,
+        "current_role": "Principal Platform Engineer",
+        "location": "Bangalore, Karnataka"
+      },
+      {
+        "rank": 7,
+        "candidate_name": "SNEHA IYER",
+        "resume_path": "resumes/resume_sneha_iyer.docx",
+        "match_score": 58,
+        "score_breakdown": {
+          "semantic_similarity": 33.2,
+          "skill_match": 52.0,
+          "experience_match": 92,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ai",
+          "postgresql",
+          "python",
+          "docker",
+          "rest",
+          "redis",
+          "go",
+          "terraform",
+          "aws"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "solid understanding of restful api design principles",
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+        ],
+        "reasoning": "Partial match for Senior Python Backend Engineer. SNEHA IYER has 8 years of experience (meets 5+ year requirement). Key matched skills: ai, postgresql, python, docker, rest. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+        "experience_years": 8,
+        "current_role": "Senior Full",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 8,
+        "candidate_name": "KAVITA SINGH",
+        "resume_path": "resumes/resume_kavita_singh.txt",
+        "match_score": 56,
+        "score_breakdown": {
+          "semantic_similarity": 49.4,
+          "skill_match": 46.0,
+          "experience_match": 88,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "ai",
+          "postgresql",
+          "python",
+          "docker",
+          "aws",
+          "redis"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "solid understanding of restful api design principles",
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+        ],
+        "reasoning": "Partial match for Senior Python Backend Engineer. KAVITA SINGH has 7 years of experience (meets 5+ year requirement). Key matched skills: ai, postgresql, python, docker, aws. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+        "experience_years": 7,
+        "current_role": "Senior Developer",
+        "location": "Jaipur, Rajasthan"
+      },
+      {
+        "rank": 9,
+        "candidate_name": "POOJA DESHMUKH",
+        "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+        "match_score": 52,
+        "score_breakdown": {
+          "semantic_similarity": 37.4,
+          "skill_match": 52.0,
+          "experience_match": 80,
+          "education_match": 60
+        },
+        "matched_skills": [
+          "kubernetes",
+          "ai",
+          "postgresql",
+          "python",
+          "docker",
+          "aws",
+          "redis",
+          "go"
+        ],
+        "missing_skills": [
+          "strong experience with django or fastapi frameworks",
+          "solid understanding of restful api design principles",
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "POOJA DESHMUKH\nEmail: pooja.deshmukh@email.com | Phone: +91 99887 76655\nLinkedIn: linkedin.com/in/poojadeshmukh | GitHub: github.com/poojadeshmukh\nLocation: Pune, Maharashtra\nPROFESSIONAL SUMMARY\nBackend Engineer with 4 years of experience building high-performance\ndistributed systems using Go. Pass..."
+        ],
+        "reasoning": "Partial match for Senior Python Backend Engineer. POOJA DESHMUKH has 5 years of experience (meets 5+ year requirement). Key matched skills: kubernetes, ai, postgresql, python, docker. Gaps: strong experience with django or fastapi frameworks, solid understanding of restful api design principles, strong problem-solving and communication skills.",
+        "experience_years": 5,
+        "current_role": "Backend Engineer",
+        "location": "Pune, Maharashtra"
+      },
+      {
+        "rank": 10,
+        "candidate_name": "ANKIT PATEL",
+        "resume_path": "resumes/resume_ankit_patel.docx",
+        "match_score": 34,
+        "score_breakdown": {
+          "semantic_similarity": 64.9,
+          "skill_match": 66.0,
+          "experience_match": 20,
+          "education_match": 100
+        },
+        "matched_skills": [
+          "ai",
+          "postgresql",
+          "fastapi",
+          "python",
+          "docker",
+          "rest",
+          "redis",
+          "go",
+          "aws"
+        ],
+        "missing_skills": [
+          "strong problem-solving and communication skills"
+        ],
+        "relevant_excerpts": [
+          "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+        ],
+        "reasoning": "Partial match for Senior Python Backend Engineer. ANKIT PATEL has 2 years of experience (5+ required). Key matched skills: ai, postgresql, fastapi, python, docker. Gaps: strong problem-solving and communication skills.",
+        "experience_years": 2,
+        "current_role": "Backend Developer",
+        "location": "Ahmedabad, Gujarat"
+      }
+    ],
+    "performance_metrics": {
+      "retrieval_latency_ms": 81,
+      "total_candidates_evaluated": 10,
+      "candidates_after_filter": 10
+    }
+  }
+]

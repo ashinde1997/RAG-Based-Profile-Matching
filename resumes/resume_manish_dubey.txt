@@ -1,0 +1,37 @@
+MANISH DUBEY
+Email: manish.dubey@email.com | Phone: +91 99887 77665
+LinkedIn: linkedin.com/in/manishdubey | GitHub: github.com/manishdubey
+Location: Lucknow, Uttar Pradesh
+
+PROFESSIONAL SUMMARY
+Recent Computer Science graduate with 1 year of internship experience
+in web development. Eager to learn and grow as a software developer.
+Familiar with Python, JavaScript, and basic cloud services.
+
+SKILLS
+Languages: Python, JavaScript, HTML, CSS, SQL
+Frameworks: Flask, Express.js, Bootstrap
+Databases: MySQL, SQLite, MongoDB
+Tools: Git, VS Code, Postman
+Concepts: Data Structures, Algorithms, OOP, REST APIs
+
+WORK EXPERIENCE
+
+Software Development Intern — Cognizant, Pune, Maharashtra
+Jan 2024 – Jun 2024
+• Developed web pages using HTML, CSS, and JavaScript
+• Built simple REST APIs using Flask and MySQL
+• Participated in daily standups and code reviews
+• Completed training in Python, SQL, and cloud fundamentals
+
+EDUCATION
+B.Tech Computer Science — AKTU Lucknow (2024)
+
+PROJECTS
+• To-do list web app using Flask and SQLite
+• Weather dashboard using JavaScript and OpenWeather API
+• Student management system using Python and MySQL
+
+CERTIFICATIONS
+• Python for Everybody – Coursera
+• AWS Cloud Practitioner Essentials

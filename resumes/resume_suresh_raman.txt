@@ -1,0 +1,39 @@
+SURESH RAMAN
+Email: suresh.raman@email.com | Phone: +91 88776 65544
+LinkedIn: linkedin.com/in/sureshraman | GitHub: github.com/sureshraman
+Location: Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Blockchain Developer with 3 years of experience building smart
+contracts, DeFi protocols, and Web3 applications. Expert in
+Solidity, Ethereum, and Rust-based blockchain development.
+
+SKILLS
+Languages: Solidity, Rust, TypeScript, Python
+Blockchain: Ethereum, Polygon, Solana, Hyperledger Fabric
+Smart Contracts: Hardhat, Foundry, OpenZeppelin, Chainlink
+Frontend: React, Next.js, ethers.js, wagmi, RainbowKit
+Tools: Git, Remix IDE, IPFS, The Graph, Alchemy
+Concepts: DeFi, NFTs, DAOs, ZK-Proofs, Layer-2 Scaling
+
+WORK EXPERIENCE
+
+Blockchain Developer — Polygon Labs, Bangalore, Karnataka
+May 2023 – Present
+• Developed smart contracts for cross-chain bridge handling $100M+ TVL
+• Built Solidity libraries for gas-optimized ERC-20 and ERC-721 tokens
+• Implemented ZK-proof verification contracts for Layer-2 scaling
+• Created developer tooling and SDKs for Polygon ecosystem
+
+Web3 Developer — CoinDCX, Mumbai, Maharashtra
+Jan 2022 – Apr 2023
+• Built DeFi yield aggregator protocol on Ethereum using Solidity
+• Developed React-based dApp frontend with MetaMask integration
+• Conducted smart contract audits for internal and partner projects
+• Implemented automated testing suite using Hardhat and Foundry
+
+EDUCATION
+B.Tech Computer Science — IIIT Bangalore (2021)
+
+CERTIFICATIONS
+• Ethereum Developer Certification (ConsenSys)

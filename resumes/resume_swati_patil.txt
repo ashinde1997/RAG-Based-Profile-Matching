@@ -1,0 +1,41 @@
+SWATI PATIL
+Email: swati.patil@email.com | Phone: +91 55443 32211
+LinkedIn: linkedin.com/in/swatipatil | GitHub: github.com/swatipatil
+Location: Pune, Maharashtra
+
+PROFESSIONAL SUMMARY
+Data Scientist with 4 years of experience in machine learning,
+statistical modeling, and data analysis. Skilled in Python,
+scikit-learn, and building end-to-end ML pipelines.
+
+SKILLS
+Languages: Python, R, SQL
+ML/AI: scikit-learn, XGBoost, LightGBM, TensorFlow, PyTorch
+Data: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Big Data: PySpark, Hive, Hadoop
+Cloud: AWS (SageMaker, S3, Redshift), GCP (BigQuery, Vertex AI)
+Tools: Git, Jupyter, MLflow, Airflow, Streamlit
+
+WORK EXPERIENCE
+
+Senior Data Scientist — Flipkart, Bangalore, Karnataka
+Mar 2022 – Present
+• Built product recommendation engine increasing click-through rate by 18%
+• Developed demand forecasting model using LightGBM for inventory planning
+• Created ML pipeline using Airflow and MLflow for model retraining
+• Conducted A/B testing framework for pricing optimization experiments
+• Presented insights to VP-level stakeholders with actionable recommendations
+
+Data Scientist — TCS Innovation Lab, Pune, Maharashtra
+Jul 2020 – Feb 2022
+• Built credit risk scoring model for banking client using XGBoost
+• Developed customer segmentation using K-Means and DBSCAN clustering
+• Created interactive dashboards using Streamlit and Plotly
+• Automated data quality checks reducing manual review time by 70%
+
+EDUCATION
+M.Sc. Statistics — Indian Statistical Institute, Kolkata (2020)
+B.Sc. Statistics — Fergusson College, Pune (2018)
+
+PUBLICATIONS
+• "Demand Forecasting in E-commerce Using Ensemble Methods" — KDD Workshop 2023

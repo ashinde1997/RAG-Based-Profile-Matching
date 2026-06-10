@@ -1,0 +1,39 @@
+JOB TITLE: Mobile Developer (Flutter / React Native)
+COMPANY: UrbanGo Mobility
+LOCATION: Bangalore, Karnataka (On-site)
+EXPERIENCE: 3+ years
+
+ABOUT THE ROLE
+We are looking for a Mobile Developer to build cross-platform
+mobile applications using Flutter or React Native. You will work
+on our consumer-facing mobility app used by millions of commuters.
+
+RESPONSIBILITIES
+• Build cross-platform mobile applications using Flutter or React Native
+• Implement complex UI designs with smooth animations
+• Integrate with REST APIs and real-time services (WebSockets, Firebase)
+• Optimize app performance, startup time, and memory usage
+• Write widget/component tests and integration tests
+• Manage app releases and deployment pipelines
+• Collaborate with designers and backend engineers
+
+REQUIRED SKILLS
+• 3+ years of mobile development experience
+• Strong Flutter (Dart) or React Native (JavaScript/TypeScript) skills
+• Experience with state management (BLoC, Provider, Redux)
+• Familiarity with RESTful APIs and Firebase
+• Understanding of mobile app architecture patterns (MVVM, Clean Architecture)
+• Experience with Git and mobile CI/CD tools
+• Published apps on Google Play Store and/or Apple App Store
+
+PREFERRED SKILLS
+• Experience with native Android (Kotlin) or iOS (Swift)
+• Knowledge of maps and location services integration
+• Experience with push notifications and deep linking
+• Familiarity with app performance profiling tools
+• Experience with offline-first architecture
+
+MUST-HAVE REQUIREMENTS
+• Minimum 3 years of mobile development experience
+• Production Flutter or React Native apps
+• Published apps on app stores

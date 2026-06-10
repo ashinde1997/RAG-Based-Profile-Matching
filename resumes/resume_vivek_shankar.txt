@@ -1,0 +1,42 @@
+VIVEK SHANKAR
+Email: vivek.shankar@email.com | Phone: +91 77554 43321
+LinkedIn: linkedin.com/in/vivekshankar | GitHub: github.com/vivekshankar
+Location: Hyderabad, Telangana
+
+PROFESSIONAL SUMMARY
+Big Data Engineer with 5 years of experience building large-scale
+data processing systems using Scala, Apache Spark, and cloud-native
+data platforms. Strong background in streaming and batch processing.
+
+SKILLS
+Languages: Scala, Python, Java, SQL
+Big Data: Apache Spark, Kafka, Flink, Hive, Presto
+Data Platforms: Databricks, Snowflake, Delta Lake, Apache Iceberg
+Cloud: AWS (EMR, Glue, Kinesis, Redshift), GCP (Dataproc, BigQuery)
+Tools: Git, Airflow, dbt, Terraform, Docker, Kubernetes
+Databases: PostgreSQL, Cassandra, DynamoDB, Redis
+
+WORK EXPERIENCE
+
+Senior Data Engineer — Microsoft India, Hyderabad, Telangana
+Apr 2022 – Present
+• Architected Lakehouse platform using Databricks and Delta Lake for 50+ teams
+• Built real-time streaming pipelines using Spark Structured Streaming and Kafka
+• Designed data governance framework with Unity Catalog and data lineage tracking
+• Optimized Spark jobs reducing compute costs by $500K annually
+• Led migration from on-premises Hadoop to cloud-native Databricks
+
+Data Engineer — Deloitte India, Hyderabad, Telangana
+Jun 2019 – Mar 2022
+• Built batch ETL pipelines processing 20TB daily using Scala and Spark
+• Implemented real-time fraud detection pipeline using Kafka and Flink
+• Developed dbt models for enterprise data warehouse on Snowflake
+• Created data quality validation framework using Great Expectations
+
+EDUCATION
+M.Tech Computer Science — IIT Hyderabad (2019)
+B.Tech Computer Science — JNTU Hyderabad (2017)
+
+CERTIFICATIONS
+• Databricks Certified Data Engineer Professional
+• AWS Certified Big Data – Specialty

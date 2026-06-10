@@ -1,0 +1,45 @@
+MEERA KRISHNAN
+Email: meera.krishnan@email.com | Phone: +91 43210 98765
+LinkedIn: linkedin.com/in/meerakrishnan
+Location: Chennai, Tamil Nadu
+
+PROFESSIONAL SUMMARY
+Embedded Systems Engineer with 7 years of experience in firmware
+development, real-time operating systems, and hardware-software
+integration. Strong background in C++ and safety-critical systems.
+
+SKILLS
+Languages: C++, C, Python, Assembly (ARM, x86)
+RTOS: FreeRTOS, Zephyr, VxWorks, QNX
+Protocols: CAN, SPI, I2C, UART, Ethernet, MQTT
+Tools: JTAG, Oscilloscope, Logic Analyzer, Valgrind
+Hardware: ARM Cortex-M/A, STM32, ESP32, Raspberry Pi
+Development: Git, CMake, GDB, CI/CD (GitLab CI)
+
+WORK EXPERIENCE
+
+Senior Embedded Engineer — Tata Elxsi, Bangalore, Karnataka
+May 2020 – Present
+• Designed ADAS sensor fusion module for autonomous vehicle platform
+• Developed real-time control software on FreeRTOS meeting <1ms deadlines
+• Implemented CAN bus communication stack for vehicle ECU network
+• Led team of 4 engineers in MISRA C++ compliant firmware development
+
+Embedded Software Engineer — Robert Bosch India, Coimbatore, Tamil Nadu
+Jul 2017 – Apr 2020
+• Built firmware for fleet of 10K+ IoT sensor devices using C++ and Zephyr
+• Developed OTA firmware update system with rollback capability
+• Optimized power management achieving 2-year battery life on coin cell
+
+Junior Firmware Developer — HCL Technologies, Noida, Uttar Pradesh
+Jun 2016 – Jun 2017
+• Developed firmware for medical monitoring devices
+• Implemented IEC 62304 compliant software development lifecycle
+
+EDUCATION
+M.Tech VLSI Design — IIT Kharagpur (2016)
+B.Tech Electronics & Communication — Anna University, Chennai (2014)
+
+CERTIFICATIONS
+• ISTQB Certified Tester – Foundation Level
+• ARM Accredited Engineer

@@ -1,0 +1,49 @@
+SIDDHARTH JOSHI
+Email: siddharth.joshi@email.com | Phone: +91 77889 90011
+LinkedIn: linkedin.com/in/siddharthjoshi
+Location: Pune, Maharashtra
+
+PROFESSIONAL SUMMARY
+Cloud Solutions Architect with 10 years of experience designing
+enterprise-grade cloud infrastructure on AWS and GCP. Led cloud
+transformation programs for Fortune 500 clients. Expert in
+cost optimization, security, and multi-cloud strategy.
+
+SKILLS
+Languages: Python, Go, Bash, HCL, CloudFormation YAML
+AWS: VPC, EC2, EKS, Lambda, RDS, DynamoDB, S3, CloudFront, IAM
+GCP: GKE, Cloud Run, BigQuery, Pub/Sub, Cloud Functions
+Architecture: Microservices, Event-Driven, Serverless, Multi-Cloud
+IaC: Terraform, Pulumi, AWS CDK, CloudFormation
+Security: IAM, KMS, WAF, GuardDuty, Security Hub, SOC2 compliance
+Tools: Docker, Kubernetes, Istio, Consul, Vault
+
+WORK EXPERIENCE
+
+Principal Cloud Architect — Accenture India, Pune, Maharashtra
+Jan 2021 – Present
+• Led cloud migration for banking client moving 200+ applications to AWS
+• Designed multi-region disaster recovery achieving RPO <15min, RTO <1hr
+• Established FinOps practice reducing cloud spend by $2M annually
+• Built reusable Terraform modules adopted across 50+ projects
+
+Senior Cloud Engineer — Microsoft India, Hyderabad, Telangana
+Jun 2017 – Dec 2020
+• Architected hybrid cloud solutions combining Azure and on-premises
+• Designed zero-trust security architecture for enterprise clients
+• Built internal developer platform using Kubernetes and Backstage
+
+Cloud Engineer — Infosys, Mysore, Karnataka
+Jul 2014 – May 2017
+• Migrated legacy data centers to AWS for retail client
+• Implemented auto-scaling strategies reducing infrastructure costs by 40%
+• Managed multi-account AWS organization with 100+ accounts
+
+EDUCATION
+M.Tech Computer Science — IIT Kanpur (2014)
+B.Tech Computer Science — COEP Pune (2012)
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Professional
+• Google Cloud Professional Cloud Architect
+• HashiCorp Certified Terraform Associate

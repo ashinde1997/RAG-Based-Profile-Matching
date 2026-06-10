@@ -1,0 +1,39 @@
+ARJUN SHARMA
+Email: arjun.sharma@email.com | Phone: +91 98765 43210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma
+Location: Bangalore, Karnataka
+
+PROFESSIONAL SUMMARY
+Senior Software Engineer with 5 years of experience specializing in
+Python, Django, and cloud infrastructure. Passionate about building
+scalable backend systems and automating deployment pipelines.
+
+SKILLS
+Languages: Python, SQL, Bash, JavaScript
+Frameworks: Django, Flask, FastAPI, Celery
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Terraform
+Databases: PostgreSQL, Redis, MongoDB
+Tools: Git, Jenkins, Jira, Confluence
+
+WORK EXPERIENCE
+
+Senior Software Engineer — Flipkart, Bangalore, Karnataka
+June 2021 – Present
+• Led migration of monolithic Django application to microservices architecture
+• Designed and implemented RESTful APIs serving 10M+ requests/day
+• Reduced AWS infrastructure costs by 30% through resource optimization
+• Mentored 3 junior developers in Python best practices and code review
+
+Software Engineer — Zoho Corporation, Chennai, Tamil Nadu
+Jan 2019 – May 2021
+• Built data ingestion pipelines processing 500GB of daily logs using Python
+• Developed automated testing suite achieving 92% code coverage
+• Implemented CI/CD pipeline using Jenkins and Docker
+• Collaborated with data science team on ML model deployment
+
+EDUCATION
+B.Tech Computer Science — IIT Bombay (2018)
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect – Associate
+• Python Institute PCPP – Certified Professional in Python Programming

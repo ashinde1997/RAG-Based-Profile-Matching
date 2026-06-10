@@ -1,0 +1,41 @@
+JOB TITLE: Senior Python Backend Engineer
+COMPANY: FinSecure Technologies
+LOCATION: Bangalore, Karnataka (Hybrid)
+EXPERIENCE: 5+ years
+
+ABOUT THE ROLE
+We are looking for a Senior Python Backend Engineer to join our
+payments platform team. You will design and build high-throughput
+APIs, optimize database performance, and mentor junior engineers.
+Our stack is Python-heavy with Django and FastAPI powering critical
+financial services.
+
+RESPONSIBILITIES
+• Design and implement scalable RESTful APIs using Django/FastAPI
+• Architect microservices for high-availability payment processing
+• Optimize PostgreSQL queries and implement caching strategies (Redis)
+• Build CI/CD pipelines and maintain deployment infrastructure
+• Conduct code reviews and mentor junior developers
+• Collaborate with product and data teams on feature development
+• Write comprehensive tests and maintain documentation
+
+REQUIRED SKILLS
+• 5+ years of professional Python development
+• Strong experience with Django or FastAPI frameworks
+• Proficiency with PostgreSQL and Redis
+• Experience with AWS cloud services (EC2, S3, RDS, Lambda)
+• Solid understanding of RESTful API design principles
+• Experience with Docker and containerization
+• Strong problem-solving and communication skills
+
+PREFERRED SKILLS
+• Experience with Celery and async task processing
+• Knowledge of Kubernetes and container orchestration
+• Experience with message queues (RabbitMQ, Kafka)
+• Familiarity with Terraform or other IaC tools
+• Contributions to open-source Python projects
+
+MUST-HAVE REQUIREMENTS
+• Minimum 5 years of Python experience
+• Production experience with Django or FastAPI
+• Hands-on PostgreSQL experience

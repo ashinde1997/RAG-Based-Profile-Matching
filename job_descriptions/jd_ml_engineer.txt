@@ -1,0 +1,39 @@
+JOB TITLE: Machine Learning Engineer
+COMPANY: DataMinds AI
+LOCATION: Mumbai, Maharashtra (Remote-Friendly)
+EXPERIENCE: 3+ years
+
+ABOUT THE ROLE
+Join our AI team to build and deploy production machine learning
+systems. You will work on NLP, recommendation systems, and MLOps
+infrastructure, taking models from research to production at scale.
+
+RESPONSIBILITIES
+• Develop and deploy ML models for NLP and recommendation use cases
+• Build end-to-end ML pipelines from data preprocessing to model serving
+• Implement experiment tracking and model versioning
+• Optimize model performance and inference latency
+• Design and maintain feature engineering pipelines
+• Collaborate with data scientists and software engineers
+• Stay current with latest ML/NLP research and techniques
+
+REQUIRED SKILLS
+• 3+ years of experience in machine learning engineering
+• Strong Python skills with PyTorch or TensorFlow
+• Experience with NLP (transformers, BERT, sentence embeddings)
+• Familiarity with MLOps tools (MLflow, Kubeflow, or SageMaker)
+• Experience deploying ML models as REST APIs
+• Solid understanding of data structures and algorithms
+• Experience with Docker and cloud platforms (AWS or GCP)
+
+PREFERRED SKILLS
+• Experience with Large Language Models (LLMs) and RAG pipelines
+• Knowledge of recommendation systems
+• Experience with distributed training
+• Familiarity with vector databases (FAISS, ChromaDB, Pinecone)
+• Published research papers in ML/NLP conferences
+
+MUST-HAVE REQUIREMENTS
+• Minimum 3 years of ML engineering experience
+• Production experience with PyTorch or TensorFlow
+• Hands-on NLP experience with transformer models

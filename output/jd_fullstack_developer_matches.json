@@ -1,0 +1,361 @@
+{
+  "job_description": "JOB TITLE: Full-Stack Developer\nCOMPANY: ShopEasy Commerce\nLOCATION: Pune, Maharashtra (On-site)\nEXPERIENCE: 4+ years\n\nABOUT THE ROLE\nWe are seeking a Full-Stack Developer to build and enhance our\ne-commerce platform. You will work across the entire stack from\nReact frontends to Node.js backends, delivering features that\nserve millions of users.\n\nRESPONSIBILITIES\n• Build responsive, performant frontend interfaces using React/Next.js\n• Develop backend APIs using Node.js and Express/NestJS\n• Desig...",
+  "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_fullstack_developer.txt",
+  "parsed_jd": {
+    "title": "Full-Stack Developer",
+    "company": "ShopEasy Commerce",
+    "min_experience_years": 4,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T20:58:58.210119",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "SNEHA IYER",
+      "resume_path": "resumes/resume_sneha_iyer.docx",
+      "match_score": 81,
+      "score_breakdown": {
+        "semantic_similarity": 62.4,
+        "skill_match": 88.0,
+        "experience_match": 96,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "graphql",
+        "node.js",
+        "react",
+        "postgresql",
+        "rest",
+        "aws",
+        "nestjs",
+        "next.js",
+        "typescript",
+        "docker",
+        "mongodb",
+        "git",
+        "go",
+        "express"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+      ],
+      "reasoning": "Strong match for Full-Stack Developer. SNEHA IYER has 8 years of experience (meets 4+ year requirement). Key matched skills: graphql, node.js, react, postgresql, rest.",
+      "experience_years": 8,
+      "current_role": "Senior Full",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "VARUN TIWARI",
+      "resume_path": "resumes/resume_varun_tiwari.docx",
+      "match_score": 78,
+      "score_breakdown": {
+        "semantic_similarity": 67.4,
+        "skill_match": 80.0,
+        "experience_match": 80,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "graphql",
+        "node.js",
+        "react",
+        "postgresql",
+        "aws",
+        "nestjs",
+        "next.js",
+        "typescript",
+        "docker",
+        "mongodb",
+        "git",
+        "go",
+        "express"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "understanding of web performance optimization"
+      ],
+      "relevant_excerpts": [
+        "VARUN TIWARI\nEmail: varun.tiwari@email.com | Phone: +91 44332 21100\nLinkedIn: linkedin.com/in/varuntiwari | GitHub: github.com/varuntiwari\nLocation: Indore, Madhya Pradesh\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 3 years of experience building web\napplications using React, Node.js, and TypeSc..."
+      ],
+      "reasoning": "Moderate match for Full-Stack Developer. VARUN TIWARI has 4 years of experience (meets 4+ year requirement). Key matched skills: graphql, node.js, react, postgresql, aws. Gaps: 4+ years of full-stack web development experience, understanding of web performance optimization.",
+      "experience_years": 4,
+      "current_role": "Full",
+      "location": "Indore, Madhya Pradesh"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "KAVITA SINGH",
+      "resume_path": "resumes/resume_kavita_singh.txt",
+      "match_score": 67,
+      "score_breakdown": {
+        "semantic_similarity": 52.8,
+        "skill_match": 78.0,
+        "experience_match": 92,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "graphql",
+        "postgresql",
+        "typescript",
+        "docker",
+        "git",
+        "react",
+        "aws"
+      ],
+      "missing_skills": [
+        "strong node.js backend development (express or nestjs)"
+      ],
+      "relevant_excerpts": [
+        "KAVITA SINGH\nEmail: kavita.singh@email.com | Phone: +91 21098 76543\nLinkedIn: linkedin.com/in/kavitasingh\nLocation: Jaipur, Rajasthan\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 5 years of experience specializing in\nRuby on Rails, GraphQL, and modern frontend technologies.\nPassionate about devel..."
+      ],
+      "reasoning": "Moderate match for Full-Stack Developer. KAVITA SINGH has 7 years of experience (meets 4+ year requirement). Key matched skills: graphql, postgresql, typescript, docker, git. Gaps: strong node.js backend development (express or nestjs).",
+      "experience_years": 7,
+      "current_role": "Senior Developer",
+      "location": "Jaipur, Rajasthan"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "PRIYA NAIR",
+      "resume_path": "resumes/resume_priya_nair.txt",
+      "match_score": 64,
+      "score_breakdown": {
+        "semantic_similarity": 44.3,
+        "skill_match": 54.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "kubernetes",
+        "postgresql",
+        "docker",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "expert-level react/next.js with typescript",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization"
+      ],
+      "relevant_excerpts": [
+        "Staff Software Engineer — Google India, Hyderabad, Telangana\nMar 2020 – Present\n• Architected event-driven microservices platform handling 50K events/sec\n• Led Kubernetes migration for 40+ services with zero downtime\n• Designed circuit-breaker patterns reducing cascading failures by 90%\n• Establishe..."
+      ],
+      "reasoning": "Moderate match for Full-Stack Developer. PRIYA NAIR has 10 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, postgresql, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+      "experience_years": 10,
+      "current_role": "Staff Software Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "HARISH MENON",
+      "resume_path": "resumes/resume_harish_menon.pdf",
+      "match_score": 52,
+      "score_breakdown": {
+        "semantic_similarity": 44.0,
+        "skill_match": 38.0,
+        "experience_match": 96,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "postgresql",
+        "rest",
+        "docker",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "expert-level react/next.js with typescript",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "HARISH MENON\nEmail: harish.menon@email.com | Phone: +91 66554 43322\nLinkedIn: linkedin.com/in/harishmenon | GitHub: github.com/harishmenon\nLocation: Kochi, Kerala\nPROFESSIONAL SUMMARY\nSenior Python Developer with 6 years of experience building scalable\nweb applications using Django and Django REST F..."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. HARISH MENON has 8 years of experience (meets 4+ year requirement). Key matched skills: postgresql, rest, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+      "experience_years": 8,
+      "current_role": "Senior Python Developer",
+      "location": "Kochi, Kerala"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "RAJESH NAMBIAR",
+      "resume_path": "resumes/resume_rajesh_nambiar.txt",
+      "match_score": 48,
+      "score_breakdown": {
+        "semantic_similarity": 37.1,
+        "skill_match": 42.0,
+        "experience_match": 80,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "postgresql",
+        "typescript",
+        "docker",
+        "mongodb",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "Backend Developer with 3 years of experience building high-performance\nAPIs using Python, FastAPI, and PostgreSQL. Focused on async programming,\ndatabase optimization, and clean architecture."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. RAJESH NAMBIAR has 4 years of experience (meets 4+ year requirement). Key matched skills: postgresql, typescript, docker, mongodb, git. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), understanding of web performance optimization.",
+      "experience_years": 4,
+      "current_role": "Backend Developer",
+      "location": "Thiruvananthapuram, Kerala"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "ANJALI CHOUDHARY",
+      "resume_path": "resumes/resume_anjali_choudhary.docx",
+      "match_score": 47,
+      "score_breakdown": {
+        "semantic_similarity": 32.9,
+        "skill_match": 32.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "kubernetes",
+        "typescript",
+        "docker",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "strong node.js backend development (express or nestjs)",
+        "experience with postgresql and mongodb",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. ANJALI CHOUDHARY has 10 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, typescript, docker, git, go. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), experience with postgresql and mongodb.",
+      "experience_years": 10,
+      "current_role": "Principal Platform Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "ARJUN SHARMA",
+      "resume_path": "resumes/resume_arjun_sharma.txt",
+      "match_score": 46,
+      "score_breakdown": {
+        "semantic_similarity": 36.4,
+        "skill_match": 32.0,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "postgresql",
+        "docker",
+        "mongodb",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "expert-level react/next.js with typescript",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. ARJUN SHARMA has 6 years of experience (meets 4+ year requirement). Key matched skills: postgresql, docker, mongodb, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+      "experience_years": 6,
+      "current_role": "Senior Software Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "POOJA DESHMUKH",
+      "resume_path": "resumes/resume_pooja_deshmukh.pdf",
+      "match_score": 42,
+      "score_breakdown": {
+        "semantic_similarity": 28.2,
+        "skill_match": 32.0,
+        "experience_match": 84,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "kubernetes",
+        "postgresql",
+        "docker",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "expert-level react/next.js with typescript",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "POOJA DESHMUKH\nEmail: pooja.deshmukh@email.com | Phone: +91 99887 76655\nLinkedIn: linkedin.com/in/poojadeshmukh | GitHub: github.com/poojadeshmukh\nLocation: Pune, Maharashtra\nPROFESSIONAL SUMMARY\nBackend Engineer with 4 years of experience building high-performance\ndistributed systems using Go. Pass..."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. POOJA DESHMUKH has 5 years of experience (meets 4+ year requirement). Key matched skills: kubernetes, postgresql, docker, git, go. Gaps: 4+ years of full-stack web development experience, expert-level react/next.js with typescript, strong node.js backend development (express or nestjs).",
+      "experience_years": 5,
+      "current_role": "Backend Engineer",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "ANKIT PATEL",
+      "resume_path": "resumes/resume_ankit_patel.docx",
+      "match_score": 24,
+      "score_breakdown": {
+        "semantic_similarity": 51.7,
+        "skill_match": 42.0,
+        "experience_match": 40,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "postgresql",
+        "rest",
+        "typescript",
+        "docker",
+        "mongodb",
+        "git",
+        "go",
+        "aws"
+      ],
+      "missing_skills": [
+        "4+ years of full-stack web development experience",
+        "strong node.js backend development (express or nestjs)",
+        "understanding of web performance optimization",
+        "experience with restful apis and/or graphql"
+      ],
+      "relevant_excerpts": [
+        "ANKIT PATEL\nEmail: ankit.patel@email.com | Phone: +91 32109 87654\nLinkedIn: linkedin.com/in/ankitpatel | GitHub: github.com/ankitpatel\nLocation: Ahmedabad, Gujarat\n\nPROFESSIONAL SUMMARY\nBackend Developer with 2 years of experience building RESTful APIs\nand microservices using Python and FastAPI. Eag..."
+      ],
+      "reasoning": "Partial match for Full-Stack Developer. ANKIT PATEL has 2 years of experience (4+ required). Key matched skills: postgresql, rest, typescript, docker, mongodb. Gaps: 4+ years of full-stack web development experience, strong node.js backend development (express or nestjs), understanding of web performance optimization.",
+      "experience_years": 2,
+      "current_role": "Backend Developer",
+      "location": "Ahmedabad, Gujarat"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 70,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

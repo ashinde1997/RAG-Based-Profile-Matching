@@ -1,0 +1,368 @@
+{
+  "job_description": "JOB TITLE: Machine Learning Engineer\nCOMPANY: DataMinds AI\nLOCATION: Mumbai, Maharashtra (Remote-Friendly)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nJoin our AI team to build and deploy production machine learning\nsystems. You will work on NLP, recommendation systems, and MLOps\ninfrastructure, taking models from research to production at scale.\n\nRESPONSIBILITIES\n• Develop and deploy ML models for NLP and recommendation use cases\n• Build end-to-end ML pipelines from data preprocessing to model serving...",
+  "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_ml_engineer.txt",
+  "parsed_jd": {
+    "title": "Machine Learning Engineer",
+    "company": "DataMinds AI",
+    "min_experience_years": 3,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T20:58:58.291124",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "RAHUL VERMA",
+      "resume_path": "resumes/resume_rahul_verma.pdf",
+      "match_score": 72,
+      "score_breakdown": {
+        "semantic_similarity": 66.4,
+        "skill_match": 56.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "kubeflow",
+        "transformer",
+        "ai",
+        "tensorflow",
+        "mlflow",
+        "docker",
+        "pytorch",
+        "aws",
+        "python",
+        "sagemaker"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience deploying ml models as rest apis"
+      ],
+      "relevant_excerpts": [
+        "Machine Learning Engineer with 3 years of experience building and\ndeploying production ML systems. Strong foundation in Python,\ndeep learning frameworks, and MLOps best practices."
+      ],
+      "reasoning": "Moderate match for Machine Learning Engineer. RAHUL VERMA has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, kubeflow, transformer, ai, tensorflow. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis.",
+      "experience_years": 5,
+      "current_role": "Machine Learning Engineer",
+      "location": "Mumbai, Maharashtra"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "FATIMA SHEIKH",
+      "resume_path": "resumes/resume_fatima_sheikh.txt",
+      "match_score": 67,
+      "score_breakdown": {
+        "semantic_similarity": 61.4,
+        "skill_match": 46.0,
+        "experience_match": 92,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "kubeflow",
+        "transformer",
+        "bert",
+        "ai",
+        "gcp",
+        "nlp",
+        "mlflow",
+        "docker",
+        "pytorch",
+        "aws",
+        "python",
+        "sagemaker"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience deploying ml models as rest apis",
+        "solid understanding of data structures and algorithms"
+      ],
+      "relevant_excerpts": [
+        "ML Engineer with 5 years of experience building production machine\nlearning systems using Python, PyTorch, and AWS. Specializes in NLP,\nrecommendation systems, and ML infrastructure."
+      ],
+      "reasoning": "Moderate match for Machine Learning Engineer. FATIMA SHEIKH has 6 years of experience (meets 3+ year requirement). Key matched skills: ml, kubeflow, transformer, bert, ai. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis, solid understanding of data structures and algorithms.",
+      "experience_years": 6,
+      "current_role": "Senior ML Engineer",
+      "location": "Mumbai, Maharashtra"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "AMIT SAXENA",
+      "resume_path": "resumes/resume_amit_saxena.docx",
+      "match_score": 65,
+      "score_breakdown": {
+        "semantic_similarity": 41.1,
+        "skill_match": 66.0,
+        "experience_match": 92,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "transformer",
+        "ai",
+        "bert",
+        "gcp",
+        "nlp",
+        "mlflow",
+        "docker",
+        "pytorch",
+        "aws",
+        "python",
+        "sagemaker"
+      ],
+      "missing_skills": [
+        "experience deploying ml models as rest apis"
+      ],
+      "relevant_excerpts": [
+        "NLP Research Scientist with 5 years of experience in natural language\nprocessing, large language models, and conversational AI. Published\nresearcher with expertise in Python, PyTorch, and transformer architectures."
+      ],
+      "reasoning": "Moderate match for Machine Learning Engineer. AMIT SAXENA has 6 years of experience (meets 3+ year requirement). Key matched skills: ml, transformer, ai, bert, gcp. Gaps: experience deploying ml models as rest apis.",
+      "experience_years": 6,
+      "current_role": "Senior NLP Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "SWATI PATIL",
+      "resume_path": "resumes/resume_swati_patil.txt",
+      "match_score": 62,
+      "score_breakdown": {
+        "semantic_similarity": 50.8,
+        "skill_match": 46.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "ai",
+        "gcp",
+        "tensorflow",
+        "mlflow",
+        "pytorch",
+        "aws",
+        "python",
+        "sagemaker"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "experience deploying ml models as rest apis"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 4 years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled in Python,\nscikit-learn, and building end-to-end ML pipelines."
+      ],
+      "reasoning": "Moderate match for Machine Learning Engineer. SWATI PATIL has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, tensorflow, mlflow. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), experience deploying ml models as rest apis.",
+      "experience_years": 5,
+      "current_role": "Senior Data Scientist",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "DEEPAK GUPTA",
+      "resume_path": "resumes/resume_deepak_gupta.txt",
+      "match_score": 57,
+      "score_breakdown": {
+        "semantic_similarity": 45.5,
+        "skill_match": 30.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "ai",
+        "gcp",
+        "docker",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+        "experience deploying ml models as rest apis"
+      ],
+      "relevant_excerpts": [
+        "DevOps Engineer with 6 years of experience in CI/CD, infrastructure\nautomation, and cloud architecture. Expert in Python scripting,\nDocker containerization, and Infrastructure as Code."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. DEEPAK GUPTA has 8 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+      "experience_years": 8,
+      "current_role": "Senior DevOps Engineer",
+      "location": "Delhi NCR"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "PALLAVI HEGDE",
+      "resume_path": "resumes/resume_pallavi_hegde.pdf",
+      "match_score": 56,
+      "score_breakdown": {
+        "semantic_similarity": 38.3,
+        "skill_match": 40.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "transformer",
+        "ai",
+        "gcp",
+        "tensorflow",
+        "mlflow",
+        "docker",
+        "pytorch",
+        "aws",
+        "python",
+        "sagemaker"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience deploying ml models as rest apis",
+        "solid understanding of data structures and algorithms"
+      ],
+      "relevant_excerpts": [
+        "Computer Vision Engineer with 4 years of experience building\nproduction vision systems using deep learning. Expert in Python,\nPyTorch, and deploying models on edge devices."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. PALLAVI HEGDE has 5 years of experience (meets 3+ year requirement). Key matched skills: ml, transformer, ai, gcp, tensorflow. Gaps: 3+ years of experience in machine learning engineering, experience deploying ml models as rest apis, solid understanding of data structures and algorithms.",
+      "experience_years": 5,
+      "current_role": "Senior CV Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "SNEHA IYER",
+      "resume_path": "resumes/resume_sneha_iyer.docx",
+      "match_score": 50,
+      "score_breakdown": {
+        "semantic_similarity": 26.6,
+        "skill_match": 30.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "ai",
+        "rest",
+        "docker",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+        "solid understanding of data structures and algorithms"
+      ],
+      "relevant_excerpts": [
+        "SNEHA IYER\nEmail: sneha.iyer@email.com | Phone: +91 65432 10987\nLinkedIn: linkedin.com/in/snehaiyer | Portfolio: snehaiyer.dev\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nFull-Stack Developer with 6 years of experience building modern web\napplications. Expert in JavaScript ecosystem with deep ..."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. SNEHA IYER has 8 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, rest, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+      "experience_years": 8,
+      "current_role": "Senior Full",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "VIKRAM REDDY",
+      "resume_path": "resumes/resume_vikram_reddy.txt",
+      "match_score": 50,
+      "score_breakdown": {
+        "semantic_similarity": 42.7,
+        "skill_match": 36.0,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "ai",
+        "gcp",
+        "docker",
+        "aws",
+        "python"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+        "experience deploying ml models as rest apis"
+      ],
+      "relevant_excerpts": [
+        "Data Engineer with 4 years of experience designing and maintaining\nlarge-scale data platforms. Skilled in Python, Apache Spark, and\nmodern data stack technologies."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. VIKRAM REDDY has 5 years of experience (meets 3+ year requirement). Key matched skills: ai, gcp, docker, aws, python. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+      "experience_years": 5,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "SIDDHARTH JOSHI",
+      "resume_path": "resumes/resume_siddharth_joshi.txt",
+      "match_score": 46,
+      "score_breakdown": {
+        "semantic_similarity": 25.4,
+        "skill_match": 20.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "ai",
+        "gcp",
+        "docker",
+        "aws",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+        "experience deploying ml models as rest apis",
+        "solid understanding of data structures and algorithms"
+      ],
+      "relevant_excerpts": [
+        "SIDDHARTH JOSHI\nEmail: siddharth.joshi@email.com | Phone: +91 77889 90011\nLinkedIn: linkedin.com/in/siddharthjoshi\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nCloud Solutions Architect with 10 years of experience designing\nenterprise-grade cloud infrastructure on AWS and GCP. Led cloud\ntransfo..."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 3+ year requirement). Key matched skills: ml, ai, gcp, docker, aws. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+      "experience_years": 11,
+      "current_role": "Principal Cloud Architect",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "MANISH DUBEY",
+      "resume_path": "resumes/resume_manish_dubey.txt",
+      "match_score": 12,
+      "score_breakdown": {
+        "semantic_similarity": 38.2,
+        "skill_match": 30.0,
+        "experience_match": 20,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ml",
+        "ai",
+        "rest",
+        "python",
+        "go"
+      ],
+      "missing_skills": [
+        "3+ years of experience in machine learning engineering",
+        "experience with nlp (transformers, bert, sentence embeddings)",
+        "familiarity with mlops tools (mlflow, kubeflow, or sagemaker)",
+        "experience with docker and cloud platforms (aws or gcp)"
+      ],
+      "relevant_excerpts": [
+        "MANISH DUBEY\nEmail: manish.dubey@email.com | Phone: +91 99887 77665\nLinkedIn: linkedin.com/in/manishdubey | GitHub: github.com/manishdubey\nLocation: Lucknow, Uttar Pradesh\n\nPROFESSIONAL SUMMARY\nRecent Computer Science graduate with 1 year of internship experience\nin web development. Eager to learn a..."
+      ],
+      "reasoning": "Partial match for Machine Learning Engineer. MANISH DUBEY has 0 years of experience (3+ required). Key matched skills: ml, ai, rest, python, go. Gaps: 3+ years of experience in machine learning engineering, experience with nlp (transformers, bert, sentence embeddings), familiarity with mlops tools (mlflow, kubeflow, or sagemaker).",
+      "experience_years": 0,
+      "current_role": "Software Development Intern",
+      "location": "Lucknow, Uttar Pradesh"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 79,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

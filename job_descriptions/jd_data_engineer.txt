@@ -1,0 +1,39 @@
+JOB TITLE: Data Engineer
+COMPANY: InsightFlow Analytics
+LOCATION: Hyderabad, Telangana (Remote-Friendly)
+EXPERIENCE: 3+ years
+
+ABOUT THE ROLE
+Join our data platform team to build scalable data pipelines and
+analytics infrastructure. You will design ETL processes, manage
+data warehouses, and ensure data quality across the organization.
+
+RESPONSIBILITIES
+• Design and build ETL/ELT data pipelines using Python and Spark
+• Manage and optimize data warehouse (Snowflake/BigQuery/Redshift)
+• Implement data quality monitoring and validation frameworks
+• Orchestrate data workflows using Airflow
+• Build real-time streaming pipelines using Kafka
+• Develop dbt models for analytics and reporting
+• Collaborate with data scientists and analysts on data requirements
+
+REQUIRED SKILLS
+• 3+ years of data engineering experience
+• Strong Python and SQL skills
+• Experience with Apache Spark (PySpark or Scala)
+• Familiarity with data orchestration tools (Airflow, Prefect)
+• Experience with cloud data warehouses (Snowflake, BigQuery, or Redshift)
+• Understanding of data modeling concepts
+• Experience with AWS or GCP cloud services
+
+PREFERRED SKILLS
+• Experience with real-time streaming (Kafka, Flink)
+• Knowledge of dbt for data transformations
+• Familiarity with data lake architectures (Delta Lake, Iceberg)
+• Experience with data quality tools (Great Expectations)
+• Knowledge of Terraform for infrastructure provisioning
+
+MUST-HAVE REQUIREMENTS
+• Minimum 3 years of data engineering experience
+• Production experience with Spark
+• Strong SQL proficiency

@@ -1,0 +1,340 @@
+{
+  "job_description": "JOB TITLE: Data Engineer\nCOMPANY: InsightFlow Analytics\nLOCATION: Hyderabad, Telangana (Remote-Friendly)\nEXPERIENCE: 3+ years\n\nABOUT THE ROLE\nJoin our data platform team to build scalable data pipelines and\nanalytics infrastructure. You will design ETL processes, manage\ndata warehouses, and ensure data quality across the organization.\n\nRESPONSIBILITIES\n• Design and build ETL/ELT data pipelines using Python and Spark\n• Manage and optimize data warehouse (Snowflake/BigQuery/Redshift)\n• Implement d...",
+  "jd_file": "E:\\Airtribe\\RAG\\RAG Based Profile matching\\job_descriptions\\jd_data_engineer.txt",
+  "parsed_jd": {
+    "title": "Data Engineer",
+    "company": "InsightFlow Analytics",
+    "min_experience_years": 3,
+    "required_skills_count": 7
+  },
+  "timestamp": "2026-06-10T20:58:58.067865",
+  "top_matches": [
+    {
+      "rank": 1,
+      "candidate_name": "VIKRAM REDDY",
+      "resume_path": "resumes/resume_vikram_reddy.txt",
+      "match_score": 81,
+      "score_breakdown": {
+        "semantic_similarity": 72.8,
+        "skill_match": 100,
+        "experience_match": 88,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "scala",
+        "spark",
+        "ai",
+        "redshift",
+        "bigquery",
+        "gcp",
+        "snowflake",
+        "dbt",
+        "kafka",
+        "flink",
+        "aws",
+        "python",
+        "terraform",
+        "airflow"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "Senior Data Engineer — Amazon India, Hyderabad, Telangana\nJan 2022 – Present\n• Architected real-time streaming pipeline processing 2B events/day using Kafka and Spark\n• Led migration from Hadoop to Snowflake reducing query times by 75%\n• Built data quality monitoring framework using Great Expectatio..."
+      ],
+      "reasoning": "Strong match for Data Engineer. VIKRAM REDDY has 5 years of experience (meets 3+ year requirement). Key matched skills: scala, spark, ai, redshift, bigquery.",
+      "experience_years": 5,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 2,
+      "candidate_name": "VIVEK SHANKAR",
+      "resume_path": "resumes/resume_vivek_shankar.txt",
+      "match_score": 80,
+      "score_breakdown": {
+        "semantic_similarity": 68.8,
+        "skill_match": 100,
+        "experience_match": 92,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "scala",
+        "spark",
+        "ai",
+        "redshift",
+        "bigquery",
+        "gcp",
+        "snowflake",
+        "dbt",
+        "kafka",
+        "flink",
+        "aws",
+        "python",
+        "terraform",
+        "airflow"
+      ],
+      "missing_skills": [],
+      "relevant_excerpts": [
+        "VIVEK SHANKAR\nEmail: vivek.shankar@email.com | Phone: +91 77554 43321\nLinkedIn: linkedin.com/in/vivekshankar | GitHub: github.com/vivekshankar\nLocation: Hyderabad, Telangana\n\nPROFESSIONAL SUMMARY\nBig Data Engineer with 5 years of experience building large-scale\ndata processing systems using Scala, A..."
+      ],
+      "reasoning": "Strong match for Data Engineer. VIVEK SHANKAR has 6 years of experience (meets 3+ year requirement). Key matched skills: scala, spark, ai, redshift, bigquery.",
+      "experience_years": 6,
+      "current_role": "Senior Data Engineer",
+      "location": "Hyderabad, Telangana"
+    },
+    {
+      "rank": 3,
+      "candidate_name": "DEEPAK GUPTA",
+      "resume_path": "resumes/resume_deepak_gupta.txt",
+      "match_score": 70,
+      "score_breakdown": {
+        "semantic_similarity": 36.8,
+        "skill_match": 84.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ai",
+        "gcp",
+        "aws",
+        "python",
+        "terraform"
+      ],
+      "missing_skills": [
+        "experience with apache spark (pyspark or scala)"
+      ],
+      "relevant_excerpts": [
+        "DEEPAK GUPTA\nEmail: deepak.gupta@email.com | Phone: +91 10987 65432\nLinkedIn: linkedin.com/in/deepakgupta | GitHub: github.com/deepakgupta\nLocation: Delhi NCR\n\nPROFESSIONAL SUMMARY\nDevOps Engineer with 6 years of experience in CI/CD, infrastructure\nautomation, and cloud architecture. Expert in Pytho..."
+      ],
+      "reasoning": "Moderate match for Data Engineer. DEEPAK GUPTA has 8 years of experience (meets 3+ year requirement). Key matched skills: ai, gcp, aws, python, terraform. Gaps: experience with apache spark (pyspark or scala).",
+      "experience_years": 8,
+      "current_role": "Senior DevOps Engineer",
+      "location": "Delhi NCR"
+    },
+    {
+      "rank": 4,
+      "candidate_name": "NEHA KAPOOR",
+      "resume_path": "resumes/resume_neha_kapoor.txt",
+      "match_score": 69,
+      "score_breakdown": {
+        "semantic_similarity": 52.4,
+        "skill_match": 68.0,
+        "experience_match": 84,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ai",
+        "redshift",
+        "bigquery",
+        "dbt",
+        "python",
+        "airflow"
+      ],
+      "missing_skills": [
+        "experience with apache spark (pyspark or scala)",
+        "experience with aws or gcp cloud services"
+      ],
+      "relevant_excerpts": [
+        "NEHA KAPOOR\nEmail: neha.kapoor@email.com | Phone: +91 33221 10099\nLinkedIn: linkedin.com/in/nehakapoor\nLocation: Gurugram, Haryana\n\nPROFESSIONAL SUMMARY\nData Analyst with 3 years of experience in business intelligence,\nSQL analytics, and dashboard development. Skilled in translating\ncomplex data int..."
+      ],
+      "reasoning": "Moderate match for Data Engineer. NEHA KAPOOR has 4 years of experience (meets 3+ year requirement). Key matched skills: ai, redshift, bigquery, dbt, python. Gaps: experience with apache spark (pyspark or scala), experience with aws or gcp cloud services.",
+      "experience_years": 4,
+      "current_role": "Data Analyst",
+      "location": "Gurugram, Haryana"
+    },
+    {
+      "rank": 5,
+      "candidate_name": "ANJALI CHOUDHARY",
+      "resume_path": "resumes/resume_anjali_choudhary.docx",
+      "match_score": 67,
+      "score_breakdown": {
+        "semantic_similarity": 44.0,
+        "skill_match": 84.0,
+        "experience_match": 100,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "aws",
+        "gcp",
+        "terraform",
+        "python"
+      ],
+      "missing_skills": [
+        "experience with apache spark (pyspark or scala)"
+      ],
+      "relevant_excerpts": [
+        "Principal Platform Engineer — Razorpay, Bangalore, Karnataka\nJun 2021 – Present\n• Built internal developer platform (IDP) using Backstage serving 300+ engineers\n• Designed self-service infrastructure provisioning using Crossplane and Terraform\n• Implemented golden path templates reducing new service..."
+      ],
+      "reasoning": "Moderate match for Data Engineer. ANJALI CHOUDHARY has 10 years of experience (meets 3+ year requirement). Key matched skills: aws, gcp, terraform, python. Gaps: experience with apache spark (pyspark or scala).",
+      "experience_years": 10,
+      "current_role": "Principal Platform Engineer",
+      "location": "Bangalore, Karnataka"
+    },
+    {
+      "rank": 6,
+      "candidate_name": "SWATI PATIL",
+      "resume_path": "resumes/resume_swati_patil.txt",
+      "match_score": 63,
+      "score_breakdown": {
+        "semantic_similarity": 49.0,
+        "skill_match": 50.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "spark",
+        "ai",
+        "redshift",
+        "gcp",
+        "bigquery",
+        "aws",
+        "python",
+        "airflow"
+      ],
+      "missing_skills": [
+        "3+ years of data engineering experience",
+        "understanding of data modeling concepts"
+      ],
+      "relevant_excerpts": [
+        "SWATI PATIL\nEmail: swati.patil@email.com | Phone: +91 55443 32211\nLinkedIn: linkedin.com/in/swatipatil | GitHub: github.com/swatipatil\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nData Scientist with 4 years of experience in machine learning,\nstatistical modeling, and data analysis. Skilled in ..."
+      ],
+      "reasoning": "Moderate match for Data Engineer. SWATI PATIL has 5 years of experience (meets 3+ year requirement). Key matched skills: spark, ai, redshift, gcp, bigquery. Gaps: 3+ years of data engineering experience, understanding of data modeling concepts.",
+      "experience_years": 5,
+      "current_role": "Senior Data Scientist",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 7,
+      "candidate_name": "SIDDHARTH JOSHI",
+      "resume_path": "resumes/resume_siddharth_joshi.txt",
+      "match_score": 58,
+      "score_breakdown": {
+        "semantic_similarity": 38.6,
+        "skill_match": 42.0,
+        "experience_match": 100,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "ai",
+        "bigquery",
+        "gcp",
+        "aws",
+        "python",
+        "terraform"
+      ],
+      "missing_skills": [
+        "3+ years of data engineering experience",
+        "experience with apache spark (pyspark or scala)",
+        "familiarity with data orchestration tools (airflow, prefect)",
+        "understanding of data modeling concepts"
+      ],
+      "relevant_excerpts": [
+        "SIDDHARTH JOSHI\nEmail: siddharth.joshi@email.com | Phone: +91 77889 90011\nLinkedIn: linkedin.com/in/siddharthjoshi\nLocation: Pune, Maharashtra\n\nPROFESSIONAL SUMMARY\nCloud Solutions Architect with 10 years of experience designing\nenterprise-grade cloud infrastructure on AWS and GCP. Led cloud\ntransfo..."
+      ],
+      "reasoning": "Partial match for Data Engineer. SIDDHARTH JOSHI has 11 years of experience (meets 3+ year requirement). Key matched skills: ai, bigquery, gcp, aws, python. Gaps: 3+ years of data engineering experience, experience with apache spark (pyspark or scala), familiarity with data orchestration tools (airflow, prefect).",
+      "experience_years": 11,
+      "current_role": "Principal Cloud Architect",
+      "location": "Pune, Maharashtra"
+    },
+    {
+      "rank": 8,
+      "candidate_name": "RAHUL VERMA",
+      "resume_path": "resumes/resume_rahul_verma.pdf",
+      "match_score": 58,
+      "score_breakdown": {
+        "semantic_similarity": 36.2,
+        "skill_match": 52.0,
+        "experience_match": 88,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "spark",
+        "ai",
+        "dbt",
+        "aws",
+        "python",
+        "airflow"
+      ],
+      "missing_skills": [
+        "3+ years of data engineering experience",
+        "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+        "understanding of data modeling concepts"
+      ],
+      "relevant_excerpts": [
+        "RAHUL VERMA\nEmail: rahul.verma@email.com | Phone: +91 76543 21098\nLinkedIn: linkedin.com/in/rahulverma | GitHub: github.com/rahulverma\nLocation: Mumbai, Maharashtra\nPROFESSIONAL SUMMARY\nMachine Learning Engineer with 3 years of experience building and\ndeploying production ML systems. Strong foundati..."
+      ],
+      "reasoning": "Partial match for Data Engineer. RAHUL VERMA has 5 years of experience (meets 3+ year requirement). Key matched skills: spark, ai, dbt, aws, python. Gaps: 3+ years of data engineering experience, experience with cloud data warehouses (snowflake, bigquery, or redshift), understanding of data modeling concepts.",
+      "experience_years": 5,
+      "current_role": "Machine Learning Engineer",
+      "location": "Mumbai, Maharashtra"
+    },
+    {
+      "rank": 9,
+      "candidate_name": "FATIMA SHEIKH",
+      "resume_path": "resumes/resume_fatima_sheikh.txt",
+      "match_score": 58,
+      "score_breakdown": {
+        "semantic_similarity": 34.0,
+        "skill_match": 52.0,
+        "experience_match": 92,
+        "education_match": 100
+      },
+      "matched_skills": [
+        "scala",
+        "ai",
+        "gcp",
+        "aws",
+        "python",
+        "airflow"
+      ],
+      "missing_skills": [
+        "3+ years of data engineering experience",
+        "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+        "understanding of data modeling concepts"
+      ],
+      "relevant_excerpts": [
+        "ML Engineer with 5 years of experience building production machine\nlearning systems using Python, PyTorch, and AWS. Specializes in NLP,\nrecommendation systems, and ML infrastructure."
+      ],
+      "reasoning": "Partial match for Data Engineer. FATIMA SHEIKH has 6 years of experience (meets 3+ year requirement). Key matched skills: scala, ai, gcp, aws, python. Gaps: 3+ years of data engineering experience, experience with cloud data warehouses (snowflake, bigquery, or redshift), understanding of data modeling concepts.",
+      "experience_years": 6,
+      "current_role": "Senior ML Engineer",
+      "location": "Mumbai, Maharashtra"
+    },
+    {
+      "rank": 10,
+      "candidate_name": "ARJUN SHARMA",
+      "resume_path": "resumes/resume_arjun_sharma.txt",
+      "match_score": 51,
+      "score_breakdown": {
+        "semantic_similarity": 46.8,
+        "skill_match": 32.0,
+        "experience_match": 92,
+        "education_match": 60
+      },
+      "matched_skills": [
+        "aws",
+        "python",
+        "terraform",
+        "ai"
+      ],
+      "missing_skills": [
+        "3+ years of data engineering experience",
+        "experience with apache spark (pyspark or scala)",
+        "familiarity with data orchestration tools (airflow, prefect)",
+        "experience with cloud data warehouses (snowflake, bigquery, or redshift)",
+        "understanding of data modeling concepts"
+      ],
+      "relevant_excerpts": [
+        "ARJUN SHARMA\nEmail: arjun.sharma@email.com | Phone: +91 98765 43210\nLinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma\nLocation: Bangalore, Karnataka\n\nPROFESSIONAL SUMMARY\nSenior Software Engineer with 5 years of experience specializing in\nPython, Django, and cloud infrastructure..."
+      ],
+      "reasoning": "Partial match for Data Engineer. ARJUN SHARMA has 6 years of experience (meets 3+ year requirement). Key matched skills: aws, python, terraform, ai. Gaps: 3+ years of data engineering experience, experience with apache spark (pyspark or scala), familiarity with data orchestration tools (airflow, prefect).",
+      "experience_years": 6,
+      "current_role": "Senior Software Engineer",
+      "location": "Bangalore, Karnataka"
+    }
+  ],
+  "performance_metrics": {
+    "retrieval_latency_ms": 160,
+    "total_candidates_evaluated": 10,
+    "candidates_after_filter": 10
+  }
+}

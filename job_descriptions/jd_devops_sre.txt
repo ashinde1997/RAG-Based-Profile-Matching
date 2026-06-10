@@ -1,0 +1,40 @@
+JOB TITLE: DevOps / SRE Engineer
+COMPANY: CloudScale Infrastructure
+LOCATION: Hyderabad, Telangana (Hybrid)
+EXPERIENCE: 4+ years
+
+ABOUT THE ROLE
+We need a DevOps/SRE Engineer to build and maintain our cloud
+infrastructure, CI/CD pipelines, and monitoring systems. You will
+ensure high availability, automate operations, and establish SRE
+best practices across the engineering organization.
+
+RESPONSIBILITIES
+• Design and manage Kubernetes clusters on AWS/GCP
+• Build and maintain CI/CD pipelines using GitHub Actions/Jenkins
+• Implement Infrastructure as Code using Terraform
+• Set up monitoring, alerting, and observability (Prometheus, Grafana)
+• Develop automation scripts and tools using Python and Bash
+• Manage incident response and establish SRE practices (SLOs, error budgets)
+• Ensure security best practices and compliance requirements
+
+REQUIRED SKILLS
+• 4+ years of DevOps/SRE experience
+• Strong Kubernetes expertise (deployment, scaling, troubleshooting)
+• Proficiency with Terraform or similar IaC tools
+• Experience with AWS or GCP cloud platforms
+• Strong Python and Bash scripting skills
+• Experience with monitoring tools (Prometheus, Grafana, Datadog)
+• Understanding of CI/CD principles and tools
+
+PREFERRED SKILLS
+• Certified Kubernetes Administrator (CKA)
+• Experience with service mesh (Istio, Linkerd)
+• Knowledge of GitOps and ArgoCD
+• Experience with HashiCorp tools (Vault, Consul)
+• Familiarity with chaos engineering principles
+
+MUST-HAVE REQUIREMENTS
+• Minimum 4 years of DevOps/infrastructure experience
+• Hands-on Kubernetes experience in production
+• Terraform proficiency

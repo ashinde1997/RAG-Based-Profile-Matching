@@ -1,0 +1,41 @@
+RAJESH NAMBIAR
+Email: rajesh.nambiar@email.com | Phone: +91 22110 09988
+LinkedIn: linkedin.com/in/rajeshnambiar | GitHub: github.com/rajeshnambiar
+Location: Thiruvananthapuram, Kerala
+
+PROFESSIONAL SUMMARY
+Backend Developer with 3 years of experience building high-performance
+APIs using Python, FastAPI, and PostgreSQL. Focused on async programming,
+database optimization, and clean architecture.
+
+SKILLS
+Languages: Python, SQL, TypeScript, Rust
+Frameworks: FastAPI, SQLAlchemy, Pydantic, asyncio, aiohttp
+Databases: PostgreSQL, Redis, MongoDB, TimescaleDB
+Cloud: AWS (ECS, RDS, SQS, Lambda), Docker
+Tools: Git, Pytest, Alembic, Celery, RabbitMQ
+Concepts: Async Programming, Event-Driven Architecture, TDD, SOLID
+
+WORK EXPERIENCE
+
+Backend Developer — Chargebee, Chennai, Tamil Nadu
+May 2023 – Present
+• Built subscription billing APIs using FastAPI serving 50K+ businesses
+• Implemented async webhook delivery system processing 1M events/day
+• Designed PostgreSQL partitioning strategy for billing tables (500M+ rows)
+• Created comprehensive API documentation using OpenAPI/Swagger
+• Led adoption of async SQLAlchemy for improved database performance
+
+Python Developer — QBurst, Thiruvananthapuram, Kerala
+Jul 2021 – Apr 2023
+• Developed REST APIs for healthcare platform using FastAPI and PostgreSQL
+• Built real-time notification system using WebSockets and Redis pub/sub
+• Implemented rate limiting and API key authentication middleware
+• Wrote integration tests with Pytest achieving 90% coverage
+
+EDUCATION
+B.Tech Computer Science — CET Thiruvananthapuram (2021)
+
+PROJECTS
+• FastAPI starter template with auth, rate limiting (1K+ GitHub stars)
+• Python async job queue library using Redis

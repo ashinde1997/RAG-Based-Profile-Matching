@@ -1,0 +1,48 @@
+DEEPAK GUPTA
+Email: deepak.gupta@email.com | Phone: +91 10987 65432
+LinkedIn: linkedin.com/in/deepakgupta | GitHub: github.com/deepakgupta
+Location: Delhi NCR
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 6 years of experience in CI/CD, infrastructure
+automation, and cloud architecture. Expert in Python scripting,
+Docker containerization, and Infrastructure as Code.
+
+SKILLS
+Languages: Python, Bash, Go, YAML, HCL
+CI/CD: Jenkins, GitHub Actions, GitLab CI, ArgoCD, Tekton
+Containers: Docker, Kubernetes, Helm, Istio, Podman
+Cloud: AWS (EKS, ECS, Lambda, CloudFormation), Azure, GCP
+IaC: Terraform, Ansible, Pulumi, CloudFormation
+Monitoring: Prometheus, Grafana, ELK Stack, Datadog, PagerDuty
+Tools: Git, Vault, Consul, Nexus, SonarQube
+
+WORK EXPERIENCE
+
+Senior DevOps Engineer — PhonePe, Bangalore, Karnataka
+Oct 2021 – Present
+• Architected Kubernetes platform hosting 100+ microservices on AWS EKS
+• Built zero-downtime deployment pipeline using ArgoCD and Helm
+• Developed Python-based infrastructure automation reducing provisioning time
+• Implemented secrets management using HashiCorp Vault
+• Established SRE practices achieving 99.95% uptime SLA
+
+DevOps Engineer — Ola Cabs, Bangalore, Karnataka
+Mar 2019 – Sep 2021
+• Migrated legacy applications to Docker containers and Kubernetes
+• Automated infrastructure provisioning using Terraform and Ansible
+• Built CI/CD pipelines for 30+ repositories using Jenkins
+
+Systems Administrator — Tech Mahindra, Noida, Uttar Pradesh
+Jul 2017 – Feb 2019
+• Managed Linux server fleet of 200+ servers
+• Automated routine tasks using Python and Bash scripts
+• Implemented centralized logging with ELK Stack
+
+EDUCATION
+B.Tech Information Technology — DTU Delhi (2017)
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer – Professional
+• Certified Kubernetes Administrator (CKA)
+• HashiCorp Certified Terraform Associate

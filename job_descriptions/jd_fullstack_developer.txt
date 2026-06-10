@@ -1,0 +1,40 @@
+JOB TITLE: Full-Stack Developer
+COMPANY: ShopEasy Commerce
+LOCATION: Pune, Maharashtra (On-site)
+EXPERIENCE: 4+ years
+
+ABOUT THE ROLE
+We are seeking a Full-Stack Developer to build and enhance our
+e-commerce platform. You will work across the entire stack from
+React frontends to Node.js backends, delivering features that
+serve millions of users.
+
+RESPONSIBILITIES
+• Build responsive, performant frontend interfaces using React/Next.js
+• Develop backend APIs using Node.js and Express/NestJS
+• Design and optimize database schemas (PostgreSQL, MongoDB)
+• Implement authentication, authorization, and security best practices
+• Build real-time features using WebSockets
+• Write unit and integration tests for frontend and backend
+• Participate in code reviews, architecture discussions, and sprint planning
+
+REQUIRED SKILLS
+• 4+ years of full-stack web development experience
+• Expert-level React/Next.js with TypeScript
+• Strong Node.js backend development (Express or NestJS)
+• Experience with PostgreSQL and MongoDB
+• Proficiency with Git and CI/CD workflows
+• Understanding of web performance optimization
+• Experience with RESTful APIs and/or GraphQL
+
+PREFERRED SKILLS
+• Experience with server-side rendering (SSR) and static site generation (SSG)
+• Knowledge of state management (Redux, Zustand)
+• Experience with Docker and Kubernetes
+• Familiarity with AWS or Vercel deployment
+• Experience with design systems and component libraries
+
+MUST-HAVE REQUIREMENTS
+• Minimum 4 years of full-stack development experience
+• Production experience with React and Node.js
+• TypeScript proficiency
